@@ -435,9 +435,9 @@ margin: 10px;
 
 .form-section {
     max-width: 500px;
-    margin: 50px auto;
+    /* margin: 50px auto; */
     position: relative;
-    padding: 200px;
+    padding: 128px;
 
 }
 
@@ -499,6 +499,7 @@ a {
   
   #content-wrap {
     padding-bottom: 2.5rem;    /* Footer height */
+    /* height:81vh; */
   }
   
   #footer {
@@ -579,7 +580,7 @@ a {
 #contact-us {
     text-align: center;
     width: 100%;
-    height: 500px;
+    height: 597px;
     box-sizing: border-box;
     position: relative;
     margin-top: 20px;
@@ -709,6 +710,10 @@ iframe {
 
     /* Set height */
     height: 50%
+}
+
+.footer-bottom{
+    height:7vh;
 }
 
 
@@ -1303,10 +1308,12 @@ margin: 10px;
 }
 
 .form-section {
-    max-width: 500px;
-    margin: 50px auto;
-    position: relative;
-    padding: 200px;
+    /* max-width: 500px; */
+    display: flex;
+    align-items: center;
+    /* margin: 50px auto; */
+    /* position: relative; */
+    /* padding: 200px; */
 
 }
 
@@ -1448,7 +1455,7 @@ a {
 #contact-us {
     text-align: center;
     width: 100%;
-    height: 500px;
+    height: 597px;
     box-sizing: border-box;
     position: relative;
     margin-top: 20px;
