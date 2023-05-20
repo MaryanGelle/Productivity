@@ -10,22 +10,22 @@ We welcome you to your new go-to website that will help you take a step forward 
 ## Table of Contents
 
 - [Features](#features)
-- [Home Page](#Home-page)
-- [footer](#footer)
+- [Home-page](#home-page)
+- [Footer](#footer)
 - [Sign Up Page](#sign-up)
 - [Contact Us](#contact-us)
 - [License](#license)
-- [User -experience UX](#User-experience-ux)
 - [testing](#User-experience-ux)
 - [deployment](#deployment)
 - [credit](#credit)
-- [Aknowledgment](#aknowledgment)
+- [Acknowledgment](#acknowledgment)
 
 
 ## Features
 
 Below you will find the different features that is used in my project. The value the features used provide to my website and why it useful for my users in navigating through the website.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Home-page
 
@@ -68,7 +68,9 @@ Below you will find the different features that is used in my project. The value
 
     ![Ethos](assets/Readme-images/ethos.png)
 
-##Footer
+    <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Footer
 - ## Social Media Link
         * Social media links is used to connect our users from our website towards our social media (Facebook, Twitter, Instagram and Linkedin). It has a purpose to connect with my users and also to promote engagement online. 
         * The icons is used instead of just typing out the name of social media, this is because the visual appeals more to my users.
@@ -82,6 +84,10 @@ Below you will find the different features that is used in my project. The value
 
     ![footer](assets/Readme-images/footer.png)
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 ## Sign-up
 - ## Sign-up form
     * The Sign up page we added a sign-up form that at the center of the page, that is responsive all different devices and screens. This will allows users to sign up to join others who are also commited. The users are expected provide their name, email and their goals. 
@@ -89,17 +95,100 @@ Below you will find the different features that is used in my project. The value
 
     ![form](assets/Readme-images/form.png)
 
+    <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Contact-us
 - ## Contact Us Page
     * The Contact-us page is a very important part of my website as it directs the users and other companys to get in contact with our organisation. 
     * It provides information that includes contact number and address.
-    * Google Map integration function is used to provide an accurate representation of our organisations location. It is interactive and user friendly. 
+ 
+   * Google Map integration function is used to provide an accurate representation of our organisations location. It is interactive and user friendly. 
 
     ![contact](assets/Readme-images/contact.png)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## License
+
+- ## License used
+    * The Project/ Website is licensed under the MIT License as Copyright (c) 2023 MaryanGelle this has been updated in all websites. 
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+## User Experience
+
+- ## Introduction
+     * This Project was really important for me to showcase a website that offers a life-hack tips and guidance for its users. It was created on the purpose of setting up a user-friendly website but that also pushes individuals to want to take a step forward towards productivity. I had in mind to create a practical, simple website that increased satisfaction for my users. 
+
+- ## Design Principles
+     * My website was created to be user friendly all the design choise is picked in mind to appear aesthetics and user interactive to my users. I followed a minimalist design framework. 
+
+- ## User-Focused Approach
+    * I did a study on different existing website for life-hack and compared how user friendly they were and which ones attracted more visitors. I noticed that simple text and website that promts action and appeared aestheticly good was a winner. I therefore created my website very minimal.
+
+- ## User Interface (UI)
+ * The color theme I used for the website was quiet minimal scandinavian grey/white and black. But to stand out and attract visitors to stay on the pay I added a pink button and a interactive map. The choice of font used was Source Sans Pro and Lora, I knew that the combination together would be user friendly and appear well to my users. Modern and also simple font.
+
+- ## Interaction Design
+    * Buttons, navigting menu, map and hoover on elements was used in this website. It is userfriendly and intented to increase user experience. The landing page includes an aniumating effect to grab users attention in the first few seconds looking at the website. This is used to enhance usability. 
+
+- ## Screen Responsiveness
+    * I ensured a mobile friendly responsive website by styling my pages in accordance to different screen. Mobile screen is adjusted through setting a media css style that suits the sreen. For Ipad and laptop I also used a seperate styling to suit the screen for my users.
+
+- ## Accessibility
+   * My project can be accessible to users and online platform search through my use of #keywords to increase user ability to find my page. This includes #productivity.
+
+- ## Testing and Iteration
+  * In order to increase my projects user experience, I conducted testing for my html and css for all my pages. 
+    * For HTML validation, I used the [W3C HTML Validator](https://validator.w3.org/).
+    * For CSS validation, I used the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
+
+
+
+
+- ## Performance Optimization
+    * To ensure a smooth interaction in my pages, I set up scroll-behavior: smooth; in my css.
+
+- ## Future Enhancements
+    * I believe my Productivity website is a good start, however I believe there could be a lot of improvment that could include in the future. Any improvment tips I would be happy to hear from my users or other developers.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Deployment
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Credit
+    * Below you will find credit reference to where I got my content and media. 
+
+   ## Reference
+   * Font was from [Google Fonts] (https://fonts.googleapis.com/css2?family=Lora&family=Source+Sans+Pro:wght@300&display=swap)
+
+   * Map was taken from [Google Fonts] (https://www.google.com/maps/d/embed?mid=1KKNEUqhmPslbhvxUIBpI3omLBsc&hl=en&ehbc=2E312F)
+
+   * Image used as Landing page was from Canvas, Free with no copyright issues. Link can be found in (https://www.canva.com/design/DAFjcul24Zs/7-iEkpbNU_SMwKLD4tmpDA/edit)
+   
+   * The Ethos image used in a circle was taken from [LSFglobal] (https://lsfglobal.com/ms-teams-end-user-training)
+
+   * Logos was taken from [Cloudfare] (https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css)
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Acknowledgment
+
+ * This website was made my Maryan Gelle (Developer) as a Project 1 for my IT FullStack Developer programme at Code Institute in 2023.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
  
