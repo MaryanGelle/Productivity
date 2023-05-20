@@ -364,12 +364,15 @@ article h52 {
     margin-left: 10px;
     font-size: 14px;
     color: #3a3a3a
+    margin-top: 20px;
+    margin-bottom: 20px
 }
 
 #paragraph-12,
 #paragraph-22,
 {
 margin: 10px;
+
 }
 
 #paragraph-22 {
@@ -1235,7 +1238,7 @@ article h52 {
 
 #articleh52 {
     display: inline-block;
-    margin-left: 10px;
+    margin-left: 0px;
     font-size: 14px;
     color: #3a3a3a
 }
@@ -1248,7 +1251,10 @@ margin: 10px;
 
 #paragraph-22 {
     font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
+
 
 #article-list2 {
     display: inline-block;
