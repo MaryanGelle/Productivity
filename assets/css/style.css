@@ -38,7 +38,7 @@ h2 {
 #menu,
 #logo {
     line-height: 75px;
-    margin-left: 30px;
+
 }
 
 #menu li {
@@ -425,7 +425,7 @@ margin: 10px;
         clear: both;
         width: 100%;
         float: left;
-        padding: 0;
+  
     }
 
     #hr {
@@ -899,7 +899,7 @@ h2 {
 
 #logo {
     float: left;
-    font-size: 280%;
+    font-size: 200%;
 }
 
 /* navigation link */
@@ -1297,7 +1297,7 @@ margin: 10px;
         clear: both;
         width: 100%;
         float: left;
-        padding: 0;
+    
     }
 
     #hr {
@@ -1444,7 +1444,7 @@ a {
         clear: both;
         width: 100%;
         float: center;
-        padding: 0 20px;
+
     }
 }
 
