@@ -70,7 +70,7 @@ html {
 /* add hero image */
 
 #hero-outer {
-    height: 800px;
+    height: 400px;
     width: 100%;
     overflow: hidden;
 
@@ -78,7 +78,7 @@ html {
 }
 
 #hero-image {
-    height: 80%;
+    height: 100%;
     width: 100%;
     /* background: url('https://media.istockphoto.com/id/1172427455/photo/beautiful-sunset-over-the-tropical-sea.jpg?s=170667a&w=0&k=20&c=Ljvlgzgq8F1nVhc8YJM15CFgwu0ZsJvVrRnZPLtn9oU=') no-repeat center; */
     background: url('../images/hero-image.jpg') no-repeat center center;
@@ -944,7 +944,7 @@ html {
 /* add hero image */
 
 #hero-outer {
-    height: 800px;
+    height: 400px;
     width: 100%;
     overflow: hidden;
 
@@ -952,7 +952,7 @@ html {
 }
 
 #hero-image {
-    height: 80%;
+    height: 100%;
     width: 100%;
     /* background: url('https://media.istockphoto.com/id/1172427455/photo/beautiful-sunset-over-the-tropical-sea.jpg?s=170667a&w=0&k=20&c=Ljvlgzgq8F1nVhc8YJM15CFgwu0ZsJvVrRnZPLtn9oU=') no-repeat center; */
     background: url('../images/hero-image.jpg') no-repeat center center;
@@ -970,8 +970,7 @@ html {
     animation-fill-mode: forwards;
 
 
-    /* Set height */
-    height: 50%
+
 }
 
 /* Place text and tagline in the middle of the image */
