@@ -95,9 +95,6 @@ html {
     animation-duration: 5s;
     animation-fill-mode: forwards;
 
- /*
-    /*Use "linear-gradient" for background effect to the image (hero-image.png). The text will be easy to read 
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/hero-image.jpg"); */
 
     /* Set height */
     height: 50%
@@ -709,8 +706,6 @@ iframe {
     animation-duration: 5s;
     animation-fill-mode: forwards;
 
-    /*Use "linear-gradient" for background effect to the image (hero-image.jpg). The text will be easy to read */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../workspaces/productivity/assets/images/hero-image.jpg");
 
     /* Set height */
     height: 50%
@@ -974,8 +969,6 @@ html {
     animation-duration: 5s;
     animation-fill-mode: forwards;
 
-    /*Use "linear-gradient" for background effect to the image (hero-image.png). The text will be easy to read */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/hero-image.jpg");
 
     /* Set height */
     height: 50%
@@ -1587,8 +1580,6 @@ iframe {
     animation-duration: 5s;
     animation-fill-mode: forwards;
 
-    /*Use "linear-gradient" for background effect to the image (hero-image.jpg). The text will be easy to read */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../workspaces/productivity/assets/images/hero-image.jpg");
 
     /* Set height */
     height: 50%
