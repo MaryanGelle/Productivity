@@ -157,6 +157,9 @@ Below you will find the different features that is used in my project. The value
 - ## Future Enhancements
     * I believe my Productivity website is a good start, however I believe there could be a lot of improvment that could include in the future. Any improvment tips I would be happy to hear from my users or other developers.
 
+    * The integrated map on the contact page has a bug that is extended a little bit towards one side of the page. This bug was due to the iframe and I was unable to fix it, it doesn't belong to me as i found it on google. 
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Deployment
