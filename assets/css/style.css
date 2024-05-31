@@ -379,7 +379,7 @@ article h52 {
 .form-section {
   max-width: 500px;
   position: relative;
-  padding: 128px;
+  padding: 20px;
 }
 
 .form-section .feedback-input {
@@ -436,6 +436,7 @@ a {
 
 #content-wrap {
   padding-bottom: 2.5rem; /* Footer height */
+  min-height: 90vh;
 }
 
 #footer {
