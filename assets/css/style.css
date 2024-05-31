@@ -7,7 +7,7 @@
 body,
 html {
     height: 100%;
-    font-family: Source Sans Pro, sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
     color: #3a3a3a;
     overflow-x: hidden;
@@ -71,7 +71,7 @@ h2 {
 
 .hero-text {
     text-align: center;
-    font-family: Source Sans Pro, sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     color: #e75480;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -221,7 +221,7 @@ hr {
 }
 
 #circle-cover-bg {
-    background: url('../images/productivity.jpg') no-repeat center center;
+    background: url('../images/productivity.jpg') 'no-repeat center center';
     height: 100%;
     border-radius: 50%;
 }
@@ -405,7 +405,7 @@ article h52 {
 }
 
 .form-section [type="submit"] {
-    font-family: Source Sans Pro, sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     width: 100%;
     background-color: #CC4949;
     border-radius: 5px;
