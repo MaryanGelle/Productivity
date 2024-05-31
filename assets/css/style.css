@@ -21,6 +21,12 @@ h2 {
   color: #252525;
 }
 
+h3 {
+  font-family: "Lora", serif;
+  letter-spacing: 4px;
+  color: #252525;
+}
+
 #logo {
   float: left;
   font-size: 200%;
@@ -173,7 +179,7 @@ hr {
 #welcome {
   text-align: center;
   margin: 20px;
-  font-size: 180%;
+  font-size: 170%;
 }
 
 #article {
@@ -183,7 +189,7 @@ hr {
 
 #articles {
   margin: 10px;
-  font-size: 28px;
+  font-size: 20px;
 }
 
 #articleh5 {
@@ -272,13 +278,13 @@ article h52 {
 
 #articles2 {
   margin: 10px;
-  font-size: 28px;
+  font-size: 20px;
 }
 
 #articleh52 {
   display: inline-block;
   margin-left: 0;
-  font-size: 14px;
+  font-size: 15px;
   color: #3a3a3a;
   margin: 20px 0;
 }
