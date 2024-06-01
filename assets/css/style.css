@@ -308,7 +308,6 @@ article h52 {
   #club-ethos,
   #contact-us {
     width: 65%;
-    height: 1200px;
     margin: 0 auto;
   }
 
@@ -349,7 +348,6 @@ article h52 {
 
   #contact-us {
     width: 100%;
-    height: 651px;
   }
 
   #contact-text {
@@ -486,7 +484,6 @@ a {
   #contact-us {
     text-align: center;
     width: 100%;
-    height: auto;
     box-sizing: border-box;
     margin-top: 20px;
     padding: 10px;
@@ -525,7 +522,6 @@ a {
   #contact-map {
     width: 100%;
     margin-top: 20px;
-    float: none;
   }
 }
 
@@ -563,6 +559,7 @@ a {
 }
 
 iframe {
+  width: 100%;
   height: auto;
   min-height: 480px;
   max-width: 500px;
