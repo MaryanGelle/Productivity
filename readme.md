@@ -215,7 +215,7 @@ Below you will find the different features that is used in my project. The value
 
 ### Github Deployment
 
--Requirements:
+- Requirements:
 
 - A valid GitHub account.
 - An active EmailJS account.
