@@ -5,7 +5,7 @@ Productivity is a life-hack website for anyone who is interested to make a chang
 We welcome you to your new go-to website that will help you take a step forward to your journey of becoming successful. We believe successfull is measured in different ways but time-management to be the core and center to your goals. Productivity site will be useful also for friends and families who want motivate each other, we offer you the ability to track your time and see exactly were you are today and how you can improve. You can access our platform through <a href="https://maryangelle.github.io/Productivity/" target="_blank" rel="noopener">Productivity Website</a>
 
 
-![Responsive Mockup](assets/Readme-images/mockup.jpg)
+![Responsive Mockup](/workspace/Productivity/assets/readme-images/mockup 2024.png)
 
 ## Table of Contents
 
