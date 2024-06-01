@@ -78,6 +78,8 @@ Below you will find the different features that is used in my project. The value
   <img src="assets/readme-images/article2.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 - ##  Mid page Ethos
     * The middle part of the home page "ethos" section is used to grab the users attention on why it is important to improve productivity through a graphical structure. This graphics adds visual appeal and provides information in a more aesthetical way. It communicates idea and purpose visually. 
 
@@ -94,18 +96,18 @@ Below you will find the different features that is used in my project. The value
 
 ## Footer
 - ## Social Media Link
-        * Social media links is used to connect our users from our website towards our social media (Facebook, Twitter, Instagram and Linkedin). It has a purpose to connect with my users and also to promote engagement online. 
-        * The icons is used instead of just typing out the name of social media, this is because the visual appeals more to my users.
-        * Correct sizes of the icons are used that is responsive in all device sizes. 
-        *All our pages includes a footer at the bottom of the page, it is consistent and easy accessible to my users.
+    * Social media links is used to connect our users from our website towards our social media (Facebook, Twitter, Instagram and Linkedin). It has a purpose to connect with my users and also to promote engagement online. 
+    * The icons is used instead of just typing out the name of social media, this is because the visual appeals more to my users.
+    * Correct sizes of the icons are used that is responsive in all device sizes. 
+    *All our pages includes a footer at the bottom of the page, it is consistent and easy accessible to my users.
  - ## Copyright information
-        * At the bottom of my footer a copyright information is created for legal protection and ownership purpose.
-        * It creates proffessionalism and trust. Users will view my website as credible.
+    * At the bottom of my footer a copyright information is created for legal protection and ownership purpose.
+    * It creates proffessionalism and trust. Users will view my website as credible.
 
 
 
       <div align="center">
-        <img src="assets/Readme-images/footer.png" style="background-color: black" alt="Horizon Photo">
+        <img src="assets/readme-images/footer.png" style="background-color: black" alt="Horizon Photo">
     </div>
 
 
@@ -116,8 +118,8 @@ Below you will find the different features that is used in my project. The value
 
 
           <div align="center">
-  <img src="assets/Readme-images/form.png" style="background-color: black" alt="Horizon Photo">
-</div>
+  <img src="assets/readme-images/form.png" style="background-color:     black" alt="Horizon Photo">
+    </div>
 
     <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,7 +134,7 @@ Below you will find the different features that is used in my project. The value
 
 
              <div align="center">
-  <img src="assets/Readme-images/contact.png" style="background-color: black" alt="Horizon Photo">
+  <img src="assets/readme-images/contact.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -197,7 +199,7 @@ Below you will find the different features that is used in my project. The value
 
 
 ## Credit
-    * Below you will find credit reference to where I got my content and media. 
+* Below you will find credit reference to where I got my content and media. 
 
    ## Reference
    * Font was from [Google Fonts] (https://fonts.googleapis.com/css2?family=Lora&family=Source+Sans+Pro:wght@300&display=swap)
