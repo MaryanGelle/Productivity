@@ -219,6 +219,8 @@ Below you will find the different features that is used in my project. The value
 - We chose the Github workspace: https://github.com/features/codespaces
 - Ensure that your local development enviroment is properly set up with all necessary dependencies and configurations.
 - Consider using a version control system like Git to manage changes locally before pushing them to Github.
+- Open termial on your workspace.
+- Use 'git clone' command followed by the URL of the repository in order to deploy the project locally: such as, git clone 'https://github.com/MaryanGelle/Productivity.git'
 
 ### Github Deployment
 
