@@ -195,6 +195,8 @@ Below you will find the different features that is used in my project. The value
 
   - Logos was taken from [Cloudfare] (https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css)
 
+  - Mock images was taken from [Canvas] (https://www.canva.com/p/templates/EAFC1RnsDzs-course-creator-laptop-iphone-mockup-instagram-post/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgment
