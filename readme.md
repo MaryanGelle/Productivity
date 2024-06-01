@@ -74,7 +74,7 @@ Below you will find the different features that is used in my project. The value
 
 
     <div align="center">
-  <img src="assets/readme-images/article2T.png" style="background-color: black" alt="Horizon Photo">
+  <img src="assets/readme-images/article2.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
 - ##  Mid page Ethos
