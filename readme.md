@@ -217,25 +217,28 @@ Below you will find the different features that is used in my project. The value
 
 - Choose an IDE that you work on which will be connected to your Github for further deployment.
 - We chose the Github workspace: https://github.com/features/codespaces
+- Ensure that your local development enviroment is properly set up with all necessary dependencies and configurations.
+- Consider using a version control system like Git to manage changes locally before pushing them to Github.
 
 ### Github Deployment
 
 Requirements:
 
 - A valid GitHub account.
-- An active EmailJS account.
+- Familiarity with basic Git commands for version control.
 
 ### Deployment Instructions
 
 1. Sign in to your GitHub account.
 2. Go to https://github.com/MaryanGelle.
 3. You can create a new repository.
-4. On your Workspace use git add, git commit, and git push to push changes to your GitHub repository.
+4. On your Workspace use 'git add', 'git commit', and 'git push' to push changes to your GitHub repository.
 5. GitHub Pages automatically updates from the master branch by default.
 6. Open the Settings page of your repository.
 7. Scroll down to the GitHub Pages section.
 8. Select the Master Branch as the source and confirm your selection.
-9. Wait a moment for the changes to propagate. Your website should be live shortly. You can view an example here https://maryangelle.github.io/Productivity/.
+9. Confirm your selection.
+10. Wait a moment for the changes to propagate. Your website should be live shortly. You can view an example here https://maryangelle.github.io/Productivity/.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
