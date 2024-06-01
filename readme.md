@@ -45,14 +45,20 @@ Below you will find the different features that is used in my project. The value
     * Attention grabbing image... to grap the user...  why i chose it etc..
 
 
-    ![Landing image](assets/images/hero.png)
 
-
+<div align="center">
+  <img src="assets/images/hero.png" style="background-color: black" alt="Horizon Photo">
+</div>
 
 - ##  Button inside the Landing page image
     * The button is clickable functional element that I used inside my landing page image. Its purpose is to create a function or action that grabs my users attention and thus pushing them to take action. It navigates the users towards the sign up page. It also pushes them to make a quick decision to sign up.
 
-    ![Button inside](assets/Readme-images/button.png)
+
+<div align="center">
+  <img src="assets/readme-images/join-today-button.png" style="background-color: black" alt="Horizon Photo">
+</div>
+
+ 
 
 - ##  Home page articles
     * The articles is designed to showcase and provide users with information about my choicen topic "productivity".The two articles in my home page coveres interesting topic that is quick read but also ensures that it caters to different users interest. First article grabs users attention on why productivity is successfull individuals main area of interest. This is to create a motivation to our users ony why they should also consider working on their productivity.
