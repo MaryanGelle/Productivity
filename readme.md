@@ -213,6 +213,25 @@ Below you will find the different features that is used in my project. The value
 
 ## Deployment
 
+### Github Deployment
+
+-Requirements:
+
+- A valid GitHub account.
+- An active EmailJS account.
+
+### Deployment Instructions
+
+1. Sign in to your GitHub account.
+2. Go to https://github.com/MaryanGelle.
+3. You can create a new repository.
+4. On your Workspace use git add, git commit, and git push to push changes to your GitHub repository.
+5. GitHub Pages automatically updates from the master branch by default.
+6. Open the Settings page of your repository.
+7. Scroll down to the GitHub Pages section.
+8. Select the Master Branch as the source and confirm your selection.
+9. Wait a moment for the changes to propagate. Your website should be live shortly. You can view an example here https://maryangelle.github.io/Productivity/.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Credit
