@@ -63,12 +63,19 @@ Below you will find the different features that is used in my project. The value
 - ##  Home page articles
     * The articles is designed to showcase and provide users with information about my choicen topic "productivity".The two articles in my home page coveres interesting topic that is quick read but also ensures that it caters to different users interest. First article grabs users attention on why productivity is successfull individuals main area of interest. This is to create a motivation to our users ony why they should also consider working on their productivity.
 
-    ![article 1](assets/Readme-images/article1.png)
+
+
+    <div align="center">
+  <img src="assets/Readme-images/article1.png" style="background-color: black" alt="Horizon Photo">
+</div>
 
     * The second article provides information about a tool that we recommend users to use in order to work on their productivity. The article has two purpuse to grab users attention, to provide motivation to all users, those to we need third party to get motivated such as friends or family. It has also a function and purpose to push users to sign up. It provides users a reward for the sign up such as discount code. 
 
-     ![article 2](assets/Readme-images/article2T.png)
 
+
+    <div align="center">
+  <img src="assets/Readme-images/article2T.png" style="background-color: black" alt="Horizon Photo">
+</div>
 
 - ##  Mid page Ethos
     * The middle part of the home page "ethos" section is used to grab the users attention on why it is important to improve productivity through a graphical structure. This graphics adds visual appeal and provides information in a more aesthetical way. It communicates idea and purpose visually. 
@@ -77,7 +84,11 @@ Below you will find the different features that is used in my project. The value
 
     * Whilst still staying consistent with the purpose and function of the rest input (article and landing page), Ethos is created in order to encourage and motivate users to improve their productivity. 
 
-    ![Ethos](assets/Readme-images/ethos.png)
+ 
+
+      <div align="center">
+  <img src="assets/Readme-images/ethos.png" style="background-color: black" alt="Horizon Photo">
+</div>
 
     <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,8 +104,9 @@ Below you will find the different features that is used in my project. The value
 
 
 
-    ![footer](assets/Readme-images/footer.png)
-
+      <div align="center">
+  <img src="assets/Readme-images/footer.png" style="background-color: black" alt="Horizon Photo">
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,7 +116,10 @@ Below you will find the different features that is used in my project. The value
     * The Sign up page we added a sign-up form that at the center of the page, that is responsive all different devices and screens. This will allows users to sign up to join others who are also commited. The users are expected provide their name, email and their goals. 
     * It allows users to access our services.
 
-    ![form](assets/Readme-images/form.png)
+
+          <div align="center">
+  <img src="assets/Readme-images/form.png" style="background-color: black" alt="Horizon Photo">
+</div>
 
     <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,7 +131,11 @@ Below you will find the different features that is used in my project. The value
  
    * Google Map integration function is used to provide an accurate representation of our organisations location. It is interactive and user friendly. 
 
-    ![contact](assets/Readme-images/contact.png)
+
+
+             <div align="center">
+  <img src="assets/Readme-images/contact.png" style="background-color: black" alt="Horizon Photo">
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
