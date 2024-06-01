@@ -110,7 +110,7 @@ Below you will find the different features that is used in my project. The value
   <img src="assets/Readme-images/footer.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">[back to top](#readme-top)</p>
 
 
 ## Sign-up
