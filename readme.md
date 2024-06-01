@@ -66,7 +66,7 @@ Below you will find the different features that is used in my project. The value
 
 
     <div align="center">
-  <img src="assets/Readme-images/article1.png" style="background-color: black" alt="Horizon Photo">
+  <img src="assets/readme-images/article1.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
     * The second article provides information about a tool that we recommend users to use in order to work on their productivity. The article has two purpuse to grab users attention, to provide motivation to all users, those to we need third party to get motivated such as friends or family. It has also a function and purpose to push users to sign up. It provides users a reward for the sign up such as discount code. 
@@ -74,7 +74,7 @@ Below you will find the different features that is used in my project. The value
 
 
     <div align="center">
-  <img src="assets/Readme-images/article2T.png" style="background-color: black" alt="Horizon Photo">
+  <img src="assets/readme-images/article2T.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
 - ##  Mid page Ethos
