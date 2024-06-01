@@ -121,7 +121,6 @@ Below you will find the different features that is used in my project. The value
   <img src="assets/readme-images/form.png" style="background-color:     black" alt="Horizon Photo">
     </div>
 
-    <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## Contact-us
