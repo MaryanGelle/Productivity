@@ -17,6 +17,7 @@ We welcome you to your new go-to website that will help you take a step forward 
 - [Contact Us](#contact-us)
 - [License](#license)
 - [Testing](#User-experience-ux)
+- [Bugs](#Bugs)
 - [Technology used](#Technology-used)
 - [Deployment](#deployment)
 - [Credit](#credit)
@@ -199,6 +200,16 @@ Below you will find the different features that is used in my project. The value
 
   - Prettier:
     It is also an extension that automatically formats, as it enforces a consistent style by parsing.
+
+- ## Bugs
+
+### Known Bugs
+
+- Auto Close Tag:
+
+### Validation Bugs
+
+- Auto Close Tag:
 
 ## Deployment
 
