@@ -1,5 +1,4 @@
 * {
-  margin: 0;
   padding: 0;
   border: none;
 }
@@ -273,6 +272,7 @@ article h52 {
 #article2 {
   padding: 0 20px;
   margin-top: 10px;
+  margin-bottom: 20px;
 }
 
 #articles2 {
