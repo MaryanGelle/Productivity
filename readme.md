@@ -1,4 +1,3 @@
-<a id="readme-top"></a>
 
 # Productivity
 
@@ -44,7 +43,7 @@ Below you will find the different features that is used in my project. The value
 
 
 - ## Landing page image
-    * Attention grabbing image... to grap the user...  why i chose it etc..
+    * In my page, I utilize a hero image—an attention-grabbing visual centerpiece—chosen specifically to captivate users' attention and immerse them into the essence of my website from the moment they arrive.
 
 
 
@@ -109,9 +108,6 @@ Below you will find the different features that is used in my project. The value
       <div align="center">
   <img src="assets/Readme-images/footer.png" style="background-color: black" alt="Horizon Photo">
 </div>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ## Sign-up
