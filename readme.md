@@ -36,7 +36,9 @@ Below you will find the different features that is used in my project. The value
     * Top right side of my header you find a menu bar, this will be seen accross all three pages. The menu has a purpose of simplifying the navigation of the website for its users. It is responsive and provides the ability to navigate at a quicker speed.
     * Top left side of my header you will find the logo "productivity", it is clickable and once clicked on it will take you back to the home page (main menu). The purpose is to create a user-friend responsive page.
 
-  ![Navigation bar](assets/Readme-images/menu-nav.png)
+<div align="center">
+  <img src="assets/readme-images/navigation-menu.png" style="background-color: black" alt="Horizon Photo">
+</div>
 
 
 - ## Landing page image
