@@ -55,34 +55,31 @@ Below you will find the different features that is used in my project. The value
 
   - The articles is designed to showcase and provide users with information about my choicen topic "productivity".The two articles in my home page coveres interesting topic that is quick read but also ensures that it caters to different users interest. First article grabs users attention on why productivity is successfull individuals main area of interest. This is to create a motivation to our users ony why they should also consider working on their productivity.
 
-    <div align="center">
-
-    <img src="assets/readme-images/article1.png" style="background-color: black" alt="Horizon Photo">
-      </div>
-
-      * The second article provides information about a tool that we recommend users to use in order to work on their productivity. The article has two purpuse to grab users attention, to provide motivation to all users, those to we need third party to get motivated such as friends or family. It has also a function and purpose to push users to sign up. It provides users a reward for the sign up such as discount code.
-
-
-
       <div align="center">
 
-    <img src="assets/readme-images/article2.png" style="background-color: black" alt="Horizon Photo">
-  </div>
+      <img src="assets/readme-images/article1.png" style="background-color: black" alt="Horizon Photo">
+        </div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-- ## Mid page Ethos
-
-      * The middle part of the home page "ethos" section is used to grab the users attention on why it is important to improve productivity through a graphical structure. This graphics adds visual appeal and provides information in a more aesthetical way. It communicates idea and purpose visually.
-
-      * It is suppose to create trust in the users when navigating and taking in information from the website.
-
-      * Whilst still staying consistent with the purpose and function of the rest input (article and landing page), Ethos is created in order to encourage and motivate users to improve their productivity.
+        * The second article provides information about a tool that we recommend users to use in order to work on their productivity. The article has two purpuse to grab users attention, to provide motivation to all users, those to we need third party to get motivated such as friends or family. It has also a function and purpose to push users to sign up. It provides users a reward for the sign up such as discount code.
 
 
 
         <div align="center">
 
+      <img src="assets/readme-images/article2.png" style="background-color: black" alt="Horizon Photo">
+    </div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+- ## Mid page Ethos
+
+- The middle part of the home page "ethos" section is used to grab the users attention on why it is important to improve productivity through a graphical structure. This graphics adds visual appeal and provides information in a more aesthetical way. It communicates idea and purpose visually.
+
+- It is suppose to create trust in the users when navigating and taking in information from the website.
+
+- Whilst still staying consistent with the purpose and function of the rest input (article and landing page), Ethos is created in order to encourage and motivate users to improve their productivity.
+
+<div align="center">
     <img src="assets/readme-images/ethos.png" style="background-color: black" alt="Horizon Photo">
   </div>
 
