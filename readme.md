@@ -133,7 +133,7 @@ Below you will find the different features that is used in my project. The value
 
 
 
-             <div align="center">
+<div align="center">
   <img src="assets/readme-images/contact.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
