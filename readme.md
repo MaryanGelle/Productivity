@@ -16,9 +16,10 @@ We welcome you to your new go-to website that will help you take a step forward 
 - [Sign Up Page](#sign-up)
 - [Contact Us](#contact-us)
 - [License](#license)
-- [testing](#User-experience-ux)
-- [deployment](#deployment)
-- [credit](#credit)
+- [Testing](#User-experience-ux)
+- [Technology used](#Technology-used)
+- [Deployment](#deployment)
+- [Credit](#credit)
 - [Acknowledgment](#acknowledgment)
 
 ## Features
@@ -190,6 +191,10 @@ Below you will find the different features that is used in my project. The value
   - The integrated map on the contact page has a bug that is extended a little bit towards one side of the page. This bug was due to the iframe and I was unable to fix it, it doesn't belong to me as i found it on google.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+- ## Technology Used
+
+  - In
 
 ## Deployment
 
