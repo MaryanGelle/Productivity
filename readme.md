@@ -117,7 +117,7 @@ Below you will find the different features that is used in my project. The value
     * It allows users to access our services.
 
 
-          <div align="center">
+<div align="center">
   <img src="assets/readme-images/form.png" style="background-color:     black" alt="Horizon Photo">
     </div>
 
