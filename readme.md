@@ -91,7 +91,6 @@ Below you will find the different features that is used in my project. The value
   <img src="assets/readme-images/ethos.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
-    <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Footer
 - ## Social Media Link
@@ -106,8 +105,8 @@ Below you will find the different features that is used in my project. The value
 
 
       <div align="center">
-  <img src="assets/Readme-images/footer.png" style="background-color: black" alt="Horizon Photo">
-</div>
+        <img src="assets/Readme-images/footer.png" style="background-color: black" alt="Horizon Photo">
+    </div>
 
 
 ## Sign-up
