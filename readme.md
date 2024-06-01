@@ -53,11 +53,9 @@ Below you will find the different features that is used in my project. The value
 
 - ## Home page articles
 
-      * The articles is designed to showcase and provide users with information about my choicen topic "productivity".The two articles in my home page coveres interesting topic that is quick read but also ensures that it caters to different users interest. First article grabs users attention on why productivity is successfull individuals main area of interest. This is to create a motivation to our users ony why they should also consider working on their productivity.
+  - The articles is designed to showcase and provide users with information about my choicen topic "productivity".The two articles in my home page coveres interesting topic that is quick read but also ensures that it caters to different users interest. First article grabs users attention on why productivity is successfull individuals main area of interest. This is to create a motivation to our users ony why they should also consider working on their productivity.
 
-
-
-      <div align="center">
+    <div align="center">
 
     <img src="assets/readme-images/article1.png" style="background-color: black" alt="Horizon Photo">
       </div>
