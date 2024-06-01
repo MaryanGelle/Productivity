@@ -213,6 +213,11 @@ Below you will find the different features that is used in my project. The value
 
 ## Deployment
 
+### Local Deployment
+
+- Choose an IDE that you work on which will be connected to your Github for further deployment.
+- We chose the Github workspace: https://github.com/features/codespaces
+
 ### Github Deployment
 
 Requirements:
