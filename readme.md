@@ -205,11 +205,11 @@ Below you will find the different features that is used in my project. The value
 
 ### Known Bugs
 
-- Auto Close Tag:
+- Iframe: The Google Map used occassionaly won't load as I would like it. Becuase it is an Iframe from Google my setting in CSS will not autmatically apply perfectly as it does not belong to me.
 
 ### Validation Bugs
 
-- Auto Close Tag:
+- Validation Issues: Due to use of Prettier (extension) formating, this shows up as validation issues in "Validator.w3" HTML validator, since it adds "/> towards the end of all my codes. Note that will appear regardless if I change back as it saves the codes in that way. This is an issue I am aware of and only exists because of the use of the extention "Prettier".
 
 ## Deployment
 
