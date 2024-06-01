@@ -194,10 +194,10 @@ Below you will find the different features that is used in my project. The value
 
 - ## Technology Used
 
-  - Auto Close Tag
+  - Auto Close Tag:
     It is an extension that automatically helps to add HTML close tag.
 
-  - Prettier
+  - Prettier:
     It is also an extension that automatically formats, as it enforces a consistent style by parsing.
 
 ## Deployment
