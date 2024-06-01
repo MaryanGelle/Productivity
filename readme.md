@@ -61,7 +61,7 @@ Below you will find the different features that is used in my project. The value
 - I changed my intial shade of colour in my footer in order for there to be a contrast between the greys and black, hence why I opted for all three shades to be used.
 
 <div align="center">
-  <img src="assets/images/hero.png" style="background-color: black" alt="Horizon Photo">
+  <img src="assets/readme-images/colour palate.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
 - ## Home page articles
