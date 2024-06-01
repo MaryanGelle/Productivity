@@ -55,17 +55,13 @@ Below you will find the different features that is used in my project. The value
 
   - The articles is designed to showcase and provide users with information about my choicen topic "productivity".The two articles in my home page coveres interesting topic that is quick read but also ensures that it caters to different users interest. First article grabs users attention on why productivity is successfull individuals main area of interest. This is to create a motivation to our users ony why they should also consider working on their productivity.
 
-      <div align="center">
+<div align="center">
+<img src="assets/readme-images/article1.png" style="background-color: black" alt="Horizon Photo">
+ </div>
 
-      <img src="assets/readme-images/article1.png" style="background-color: black" alt="Horizon Photo">
-        </div>
+- The second article provides information about a tool that we recommend users to use in order to work on their productivity. The article has two purpuse to grab users attention, to provide motivation to all users, those to we need third party to get motivated such as friends or family. It has also a function and purpose to push users to sign up. It provides users a reward for the sign up such as discount code.
 
-        * The second article provides information about a tool that we recommend users to use in order to work on their productivity. The article has two purpuse to grab users attention, to provide motivation to all users, those to we need third party to get motivated such as friends or family. It has also a function and purpose to push users to sign up. It provides users a reward for the sign up such as discount code.
-
-
-
-        <div align="center">
-
+    <div align="center">
       <img src="assets/readme-images/article2.png" style="background-color: black" alt="Horizon Photo">
     </div>
 
