@@ -51,6 +51,19 @@ Below you will find the different features that is used in my project. The value
   <img src="assets/readme-images/join-today-button.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
+- ## Colours
+- I wanted the site to have a minimal aestethic colours, scandinavian colour shades in order to create a simple but clean website for my users to navigare easy for an everyday use.
+
+- The primary colour used is white, black and grey to create a simple contrast for the eyes for my users and also work in all screens.
+
+- I also added another colour which adds an impact to the simple colours shades, this was used for my button (pink shade). A colour that in contrast to the black, grey and white will be a bit more fun colour, in hope to push users to click and sign up.
+
+- I changed my intial shade of colour in my footer in order for there to be a contrast between the greys and black, hence why I opted for all three shades to be used.
+
+<div align="center">
+  <img src="assets/images/hero.png" style="background-color: black" alt="Horizon Photo">
+</div>
+
 - ## Home page articles
 
   - The articles is designed to showcase and provide users with information about my choicen topic "productivity".The two articles in my home page coveres interesting topic that is quick read but also ensures that it caters to different users interest. First article grabs users attention on why productivity is successfull individuals main area of interest. This is to create a motivation to our users ony why they should also consider working on their productivity.
