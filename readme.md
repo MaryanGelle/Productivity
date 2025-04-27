@@ -332,7 +332,13 @@ Requirements:
 
   - Font was from [Google Fonts] (https://fonts.googleapis.com/css2?family=Lora&family=Source+Sans+Pro:wght@300&display=swap)
 
+  - Icons used on this site are provided by Font Awesome under the Creative Commons Attribution 4.0 International license.
+
+  - Icons used on this site are provided by Font Awesome under the Creative Commons Attribution 4.0 International license.
+
   - Map was taken from [Google Fonts] (https://www.google.com/maps/d/embed?mid=1KKNEUqhmPslbhvxUIBpI3omLBsc&hl=en&ehbc=2E312F)
+
+  - Google Map iframe embed and location visualization provided by Google Maps. All map data © Google.
 
   - Image used as Landing page was from Canvas, Free with no copyright issues. Link can be found in (https://www.canva.com/design/DAFjcul24Zs/7-iEkpbNU_SMwKLD4tmpDA/edit)
 
@@ -342,10 +348,14 @@ Requirements:
 
   - Mock images was taken from [Canvas] (https://www.canva.com/p/templates/EAFC1RnsDzs-course-creator-laptop-iphone-mockup-instagram-post/)
 
+  - Portions of CSS and HTML structure adapted from tutorials on W3Schools and MDN Web Docs.
+
+  -All third-party content used (such as fonts, icons, images, mockups, map embeds, and code snippets) are credited to their respective authors. Where content was adapted or referenced from online tutorials or documentation, appropriate attribution has been made. If any attribution was missed, it was unintentional and will be corrected upon notification.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgment
 
-- This website was made my Maryan Gelle (Developer) as a Project 1 for my IT FullStack Developer programme at Code Institute in 2023.
+- This website was made my Maryan Gelle (Developer) as a Project 1 for my IT FullStack Developer programme at Code Institute in 2025.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
