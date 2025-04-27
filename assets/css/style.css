@@ -30,6 +30,8 @@ h3 {
   line-height: 75px;
 }
 
+/*nav menu styling */
+
 #menu {
   font-size: 110%;
   letter-spacing: 4px;
@@ -51,6 +53,8 @@ h3 {
 .active {
   border-bottom: 1px solid #3a3a3a;
 }
+
+/* hero image styling */
 
 #hero-outer {
   height: 400px;
@@ -109,6 +113,8 @@ h3 {
   }
 }
 
+/* article styling */
+
 article {
   margin: 10px 0;
   padding: 40px 0;
@@ -126,6 +132,8 @@ article h2 {
 article h5 {
   margin-top: 0;
 }
+
+/*styling for mindset page */
 
 #club-ethos {
   height: 600px;
@@ -228,24 +236,7 @@ hr {
   border-radius: 50%;
 }
 
-.social-networks {
-  text-align: center;
-  display: flex;
-  gap: 30px;
-  justify-content: center;
-  align-items: center;
-}
 
-.social-networks > li {
-  display: inline;
-}
-
-.social-networks i {
-  font-size: 150%;
-  margin: 1%;
-  padding: 5%;
-  color: #3a3a3a;
-}
 
 .main-content {
   padding-bottom: 60px;
@@ -340,15 +331,6 @@ article h52 {
     display: none;
   }
 
-  .footer-menu ul {
-    display: block;
-    margin-top: 10px;
-  }
-
-  footer {
-    clear: both;
-  }
-
   #contact-us {
     width: 100%;
   }
@@ -376,6 +358,7 @@ article h52 {
   }
 }
 
+/* styling for forms */
 .form-section {
   max-width: 500px;
   position: relative;
@@ -438,6 +421,17 @@ a {
   min-height: 90vh;
 }
 
+/*footer styling color, position */
+
+.footer-menu ul {
+  display: block;
+  margin-top: 10px;
+}
+
+footer {
+  clear: both;
+}
+
 #footer {
   width: 100%;
   color: #3a3a3a;
@@ -450,6 +444,27 @@ a {
   justify-content: center;
   align-items: center;
   gap: 30px;
+}
+/*footer social networks styling */
+
+
+.social-networks {
+  text-align: center;
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-networks > li {
+  display: inline;
+}
+
+.social-networks i {
+  font-size: 150%;
+  margin: 1%;
+  padding: 5%;
+  color: #3a3a3a;
 }
 
 @media screen and (max-width: 950px) {
