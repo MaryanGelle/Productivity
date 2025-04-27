@@ -371,7 +371,9 @@ a {
 
 #page-container {
   position: relative;
+  
 }
+
 
 
 
@@ -379,11 +381,12 @@ a {
 
 .footer-menu ul {
   display: block;
-  margin-top: 10px;
+  
 }
 
 footer {
   clear: both;
+  margin-top: 10px;
 }
 
 #footer {
@@ -447,7 +450,7 @@ ul.social-networks {
     list-style-type: none;
     margin-right: 11px !important;
     margin-bottom: 20px;
-  }
+}
 
 
   /*other media screen */
@@ -526,7 +529,7 @@ ul.social-networks {
     width: 100%;
     margin-top: 20px;
   }
-}
+
 
 @media screen and (max-width: 900px) {
   .form-section {
