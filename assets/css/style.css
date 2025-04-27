@@ -187,16 +187,6 @@ hr {
 }
  
 
-#paragraph-1,
-#paragraph-2,
-#paragraph-3 {
-  margin: 10px;
-}
-
-#paragraph-2 {
-  font-weight: bold;
-}
-
 #article-list {
   display: inline-block;
   margin-left: 0;
@@ -245,14 +235,6 @@ article h52 {
   margin-bottom: 20px;
 }
 
-#paragraph-12,
-#paragraph-22 {
-  margin: 10px;
-}
-
-#paragraph-22 {
-  font-weight: bold;
-}
 
 #article-list2 {
   display: inline-block;
