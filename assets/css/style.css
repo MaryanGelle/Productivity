@@ -30,6 +30,14 @@ h3 {
   line-height: 75px;
 }
 
+/* header to avoid inteference with content below" */
+
+header {
+  height: 75px;
+  position: relative; /* stay in normal flow */
+}
+
+
 /*nav menu styling */
 
 #menu {
