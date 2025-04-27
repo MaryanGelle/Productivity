@@ -410,6 +410,10 @@ footer {
   align-items: center;
 }
 
+ul.social-networks {
+  padding-left: 0;
+}
+
 .social-networks > li {
   display: inline;
 }
