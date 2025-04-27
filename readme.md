@@ -80,12 +80,12 @@ The homepage features a large hero image, a clean navigation menu, and engaging 
 
 The sign-up page is straightforward, featuring a simple form with fields for name, email, and user goals. The goal is to minimize friction for new users.
 
-- ##Logo and Favicon
+- Logo and Favicon
 
-##Logo
+Logo
 The custom logo features an arrow hitting a target, symbolizing focus, goal-setting, and achievement. This reflects the purpose of the website—helping users stay productive and intentional. The target incorporates the website's signature pink accent color to stand out against the neutral palette and reinforce visual identity.
 
-##Favicon
+Favicon
 The favicon is a simplified version of the logo target with an arrow—also featuring the pink accent. It ensures consistency across branding elements and makes the site easily recognizable in browser tabs.
 
 <div align="center">
@@ -182,13 +182,13 @@ The favicon is a simplified version of the logo target with an arrow—also feat
 - ## Form Validation
 - Client-Side Validation:
 
--To ensure the user submits correct and complete information, client-side validation is implemented using JavaScript. 
+To ensure the user submits correct and complete information, client-side validation is implemented using JavaScript. 
 The form validates that the name field is not empty, the email is in the correct format, and that the goals field is filled out.
 
 Error Handling:
 - If the user fails to fill out any required field, an error message appears, prompting them to correct the input before submission.
 
--Real-time feedback is provided, guiding the user to correct any issues as they fill out the form.
+Real-time feedback is provided, guiding the user to correct any issues as they fill out the form.
 
 <div align="center">
   <img src="assets\readme-images\signupvalidation.png" style="background-color:     black" alt="Horizon Photo">
