@@ -371,9 +371,6 @@ a {
 
 #page-container {
   position: relative;
-  position: absolute;
-  bottom:0;
-
 }
 
 
@@ -401,8 +398,6 @@ footer {
   justify-content: center;
   align-items: center;
   gap: 30px;
-  position: absolute;
-  bottom: 0;
 
 }
 /*footer social networks styling */
