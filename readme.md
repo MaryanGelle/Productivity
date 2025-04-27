@@ -11,14 +11,15 @@ We welcome you to your new go-to website that will help you take a step forward 
 ## Table of Contents
 
 - [Features](#features)
+- [Design](#design)
 - [Home-page](#home-page)
 - [Footer](#footer)
 - [Sign Up Page](#sign-up)
 - [Contact Us](#contact-us)
 - [License](#license)
-- [Testing](#User-experience-ux)
-- [Bugs](#Bugs)
-- [Technology used](#Technology-used)
+- [Testing](#user-experience-ux)
+- [Bugs](#bugs)
+- [Technology used](#technology-used)
 - [Deployment](#deployment)
 - [Credit](#credit)
 - [Acknowledgment](#acknowledgment)
@@ -28,6 +29,56 @@ We welcome you to your new go-to website that will help you take a step forward 
 Below you will find the different features that is used in my project. The value the features used provide to my website and why it useful for my users in navigating through the website.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Design
+
+- ## Design Philosophy
+- The design of the website is centered around a minimalistic approach, using a neutral color palette and simple typography to ensure that the focus remains on the content. This approach is based on the idea that less is more, allowing users to navigate and use the site with ease.
+
+- ## Colours Scheme
+- The color scheme was inspired by minimalist Scandinavian design, favoring neutral tones like white, grey, and black to create a clean, clutter-free space for users to focus on content. These colors are easy on the eyes, ensuring that the website is comfortable for long-term use, especially for a site about productivity.
+
+- The primary colour used is white, black and grey to create a simple contrast for the eyes for my users and also work in all screens.
+
+- The pink accent color was selected for its ability to stand out against the neutral background, creating a sense of urgency and action. It was specifically applied to the sign-up button to encourage conversions, drawing the user's attention immediately to the call to action.
+
+- I changed my intial shade of colour in my footer from grey to pint accent color in order to have a nice contrast between the greys and black, hence why I opted for all three shades to be used throughout my websites pages. Another reason for the change was due to incohesiveness accross different pages specifically index page with other pages to have a consistent theme colors. 
+
+<div align="center">
+  <img src="assets/readme-images/colour palate.png" style="background-color: black" alt="Horizon Photo">
+</div>
+
+- Typography: The fonts used are Source Sans Pro and Lora, chosen for their readability and modern, yet simple design.
+
+- ## Layout
+The layout of the Productivity website follows a simple, intuitive structure that emphasizes ease of navigation and content accessibility. The layout is divided into key sections:
+
+Header: A clear and concise navigation menu for easy access to important pages like Home, Sign Up, and Contact Us.
+
+Main Content Area: Includes a hero section, productivity tips, and featured content to engage users.
+
+Footer: Contains useful links, including social media icons and copyright information.
+
+The layout is responsive, meaning it adjusts seamlessly to different screen sizes, ensuring an optimal experience for users across mobile, tablet, and desktop devices.
+
+- ## Wireframes & Mockups
+Wireframes or mockups was used in order to help me visualize the layout and user interface (UI) before development begins.The wireframes for Producitivity website were produced in [Balsamiq](https://balsamiq.com). Below are the initial designs for key sections of the website.
+
+
+![Home Page wireframe image](assets\readme-images\homepagewireframe.png)
+
+![Sign Up page wireframe image](assets\readme-images\signupwireframe.png) 
+
+
+- Homepage Wireframe
+
+The homepage features a large hero image, a clean navigation menu, and engaging call-to-action buttons. The design allows for easy user interaction and a seamless flow of information.
+
+
+- Sign-Up Page Wireframe
+
+The sign-up page is straightforward, featuring a simple form with fields for name, email, and user goals. The goal is to minimize friction for new users.
 
 ## Home-page
 
@@ -53,18 +104,6 @@ Below you will find the different features that is used in my project. The value
   <img src="assets/readme-images/join-today-button.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
-- ## Colours
-- I wanted the site to have a minimal aestethic colours, scandinavian colour shades in order to create a simple but clean website for my users to navigare easy for an everyday use.
-
-- The primary colour used is white, black and grey to create a simple contrast for the eyes for my users and also work in all screens.
-
-- I also added another colour which adds an impact to the simple colours shades, this was used for my button (pink shade). A colour that in contrast to the black, grey and white will be a bit more fun colour, in hope to push users to click and sign up.
-
-- I changed my intial shade of colour in my footer in order for there to be a contrast between the greys and black, hence why I opted for all three shades to be used.
-
-<div align="center">
-  <img src="assets/readme-images/colour palate.png" style="background-color: black" alt="Horizon Photo">
-</div>
 
 - ## Home page articles
 
