@@ -34,8 +34,15 @@ h3 {
 
 header {
   height: 75px;
-  position: relative; /* stay in normal flow */
-}
+    width: 100%;
+    display: flex;
+    justify-content: space-between; /* logo on left, menu on right */
+    align-items: center;
+    position: relative;
+    padding: 0 30px;
+    box-sizing: border-box;
+    z-index: 10;
+  }
 
 
 /*nav menu styling */
