@@ -222,7 +222,7 @@ Real-time feedback is provided, guiding the user to correct any issues as they f
     - For CSS validation, I used the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
     - For Accessability testing, I used the [PageSPeed](https://pagespeed.web.dev/).
 
-Please refer to [**_here_**](./TESTING.md) for more information on testing Productivity.
+Please refer to [**_here_**](TESTING.md) for more information on testing Productivity.
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
