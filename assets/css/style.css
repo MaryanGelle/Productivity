@@ -433,7 +433,8 @@ ul.social-networks {
  /* Media screen setting for user experience from difference screen sizes */
 
  /* media screen setting for smaller screens to fix the issue */
- @media (max-width:900px) {
+
+@media (max-width: 900px) {
   #menu {
     display: flex;
     font-size: 80%;
@@ -442,19 +443,18 @@ ul.social-networks {
     margin: 0;
     padding: 0;
   }
+
   header {
     flex-direction: column;
     height: auto !important;
   }
+
   #menu li {
     list-style-type: none;
     margin-right: 11px !important;
     margin-bottom: 20px !important;
-}
+  }
 
-
-  /*other media screen */
-@media screen and (max-width: 950px) {
   #cover-text {
     left: 0;
   }
@@ -530,8 +530,6 @@ ul.social-networks {
     margin-top: 20px;
   }
 
-
-@media screen and (max-width: 900px) {
   .form-section {
     padding-top: 100px;
   }
@@ -556,6 +554,7 @@ ul.social-networks {
     margin-top: 20px;
   }
 }
+
 
 @media screen and (max-width: 500px) {
   #menu,
