@@ -133,7 +133,7 @@ article h5 {
   margin-top: 0;
 }
 
-/*styling for mindset page */
+/*styling for article club-ethos in mindset page */
 
 #club-ethos {
   height: 600px;
@@ -190,12 +190,7 @@ hr {
 #article {
   padding: 0 20px;
 }
-
-#articles {
-  margin: 10px;
-  font-size: 20px;
-}
-
+ 
 #articleh5 {
   display: inline-block;
   margin-left: 10px;
