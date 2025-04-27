@@ -23,7 +23,7 @@ h3 {
   color: #252525;
 }
 
-/* logo styling */
+/* logo styling for index.html */
 #logo {
   float: left;
   font-size: 200%;
@@ -384,7 +384,7 @@ article h52 {
 
 .form-section .feedback-input {
   color: #3a3a3a;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   font-weight: 500;
   font-size: 18px;
   border-radius: 5px;
