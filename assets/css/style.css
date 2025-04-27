@@ -1,3 +1,5 @@
+/* style for body and html for all pages */
+
 body,
 html {
   height: 100%;
@@ -21,6 +23,7 @@ h3 {
   color: #252525;
 }
 
+/* logo styling */
 #logo {
   float: left;
   font-size: 200%;
