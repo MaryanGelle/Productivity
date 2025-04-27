@@ -181,22 +181,11 @@ hr {
   float: left;
 }
 
-#welcome {
-  text-align: center;
-  margin: 20px;
-  font-size: 170%;
-}
-
+/* styling articles for html pages */
 #article {
   padding: 0 20px;
 }
  
-#articleh5 {
-  display: inline-block;
-  margin-left: 10px;
-  font-size: 14px;
-  color: #3a3a3a;
-}
 
 #paragraph-1,
 #paragraph-2,
@@ -244,9 +233,6 @@ article2 {
   max-width: 100%;
 }
 
-article2 header {
-  margin: 0;
-}
 
 article h22,
 article h52 {
@@ -257,19 +243,6 @@ article h52 {
   padding: 0 20px;
   margin-top: 10px;
   margin-bottom: 20px;
-}
-
-#articles2 {
-  margin: 10px;
-  font-size: 20px;
-}
-
-#articleh52 {
-  display: inline-block;
-  margin-left: 0;
-  font-size: 15px;
-  color: #3a3a3a;
-  margin: 20px 0;
 }
 
 #paragraph-12,
@@ -300,7 +273,7 @@ article h52 {
     margin: 0 auto;
   }
 
-  #welcome,
+
   #contact-us {
     padding: 30px 0;
   }
