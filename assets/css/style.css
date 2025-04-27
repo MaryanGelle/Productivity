@@ -257,6 +257,7 @@ article2 {
 }
 
 /* Media queries */
+
 @media screen and (max-width: 1200px) {
   #club-ethos {
     width: 65%;
