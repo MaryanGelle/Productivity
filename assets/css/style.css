@@ -48,13 +48,15 @@ header {
 /*nav menu styling */
 
 #menu {
+  display: flex;
   font-size: 110%;
   letter-spacing: 4px;
   line-height: 75px;
+  margin: 0;
+  padding: 0;
 }
 
 #menu li {
-  float: right;
   list-style-type: none;
   margin-right: 30px;
 }
