@@ -120,6 +120,21 @@ Below you will find the different features that is used in my project. The value
   <img src="assets/readme-images/form.png" style="background-color:     black" alt="Horizon Photo">
     </div>
 
+- ## Form Validation
+- Client-Side Validation:
+
+-To ensure the user submits correct and complete information, client-side validation is implemented using JavaScript. 
+The form validates that the name field is not empty, the email is in the correct format, and that the goals field is filled out.
+
+Error Handling:
+- If the user fails to fill out any required field, an error message appears, prompting them to correct the input before submission.
+
+-Real-time feedback is provided, guiding the user to correct any issues as they fill out the form.
+
+<div align="center">
+  <img src="assets\readme-images\signupvalidation.png" style="background-color:     black" alt="Horizon Photo">
+    </div>
+
 ## Contact-us
 
 - ## Contact Us Page
