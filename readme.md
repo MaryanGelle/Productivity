@@ -154,7 +154,7 @@ Below you will find the different features that is used in my project. The value
 
     Please refer to [**_here_**](TESTING.md) for more information on testing Productivity.
 
-[Back to top](<#contents>)
+  <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
 ## User Experience
 
