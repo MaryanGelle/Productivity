@@ -295,6 +295,10 @@ Error Handling:
 
 ### Local Deployment
 
+<div align="center">
+  <img src="assets\readme-images\deployguide.png" style="background-color: black" alt="Horizon Photo">
+</div>
+
 - Choose an IDE that you work on which will be connected to your Github for further deployment.
 - We chose the Github workspace: https://github.com/features/codespaces
 - Ensure that your local development enviroment is properly set up with all necessary dependencies and configurations.
