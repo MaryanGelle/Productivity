@@ -66,9 +66,9 @@ The layout is responsive, meaning it adjusts seamlessly to different screen size
 Wireframes or mockups was used in order to help me visualize the layout and user interface (UI) before development begins.The wireframes for Producitivity website were produced in [Balsamiq](https://balsamiq.com). Below are the initial designs for key sections of the website.
 
 
-![Home Page wireframe image](assets\readme-images\homepagewireframe.png)
+![Home Page wireframe image](assets/readme-images/homepagewireframe.png)
 
-![Sign Up page wireframe image](assets\readme-images\signupwireframe.png) 
+![Sign Up page wireframe image](assets/readme-images/signupwireframe.png) 
 
 
 - Homepage Wireframe
