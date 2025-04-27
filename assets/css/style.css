@@ -373,12 +373,6 @@ a {
   position: relative;
 }
 
-/*REMOVE 
-#content-wrap {
-  padding-bottom: 2.5rem; 
-  min-height: 90vh;
-}
-*/
 
 
 /*footer styling color, position */
@@ -428,6 +422,29 @@ footer {
 }
 
  /* Media screen setting for user experience from difference screen sizes */
+
+ /* media screen setting for mobile header to fix the issue */
+ @media (max-width:700px){
+  #menu {
+      display: flex;
+      font-size: 80%;
+      letter-spacing: 4px;
+      line-height: 26px;
+      margin: 0;
+      padding: 0;
+  }
+  header {
+      flex-direction: column;
+      height: auto !important;
+  }
+  #menu li {
+      list-style-type: none;
+      margin-right: 11px !important;
+      margin-bottom: 20px;
+  }
+  }
+
+  /*other media screen */
 @media screen and (max-width: 950px) {
   #cover-text {
     left: 0;
