@@ -430,6 +430,17 @@ ul.social-networks {
   color: #3a3a3a;
 }
 
+/* styling form page to clean up footer */
+
+div#content-wrap .form-section {
+  min-height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+
  /* Media screen setting for user experience from difference screen sizes */
 
  /* media screen setting for smaller screens to fix the issue */
