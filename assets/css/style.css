@@ -137,6 +137,15 @@ article h5 {
 
 #club-ethos {
   height: 600px;
+  padding-top: 120px; /* or margin-top */
+  background-color: #fdfdfd; /* optional for visual testing */
+}
+
+#club-ethos h2 {
+  margin-top: relative; /* Pushes it down if it's too close to nav */
+  text-align: center;
+  font-size: 2rem;
+  color: #444;
 }
 
 #left-about,
@@ -222,7 +231,6 @@ article2 {
   padding: 40px 0;
   max-width: 100%;
 }
-
 
 
 #article-list2 {
