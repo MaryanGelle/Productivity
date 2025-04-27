@@ -1,6 +1,6 @@
 ## Testing
 
-- ## Testing and Code Validation
+- ## Testing and Code Validation Evidence
 
   - In order to increase my projects user experience, I conducted testing for my html and css for all my pages.
 
@@ -32,9 +32,6 @@
 
     * CSS
       ![W3C Validator test result](assets\readme-images\cssvalidator.png)
-
-
-    
 
     ## Page Speed Insights
 
