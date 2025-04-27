@@ -27,17 +27,12 @@
     ![W3C Validator test result](assets\readme-images\contactresponcehtmlvalidator.png)
 
 
-
-
-
-
-
-
-
-
-
     - For CSS validation, I used the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
 
+    - My CSS Validation results also come out clear. Please see results from W3C CSS Validator test below:
+
+    * CSS 
+    ![W3C Validator test result](assets\readme-images\cssvalidator.png)
 
 
 
