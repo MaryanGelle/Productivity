@@ -384,10 +384,6 @@ a {
   
 }
 
-footer {
-  clear: both;
-  margin-top: 10px;
-}
 
 #footer {
   width: 100%;
@@ -402,6 +398,7 @@ footer {
   align-items: center;
   gap: 30px;
   margin-top:auto;
+  clear: both;
 
 }
 /*footer social networks styling */
