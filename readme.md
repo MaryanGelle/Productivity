@@ -215,7 +215,7 @@ Below you will find the different features that is used in my project. The value
 
 ### Validation Bugs
 
-- Validation Issues: Due to use of Prettier (extension) formating, this shows up as validation issues in "Validator.w3" HTML validator, since it adds "/> towards the end of all my codes. Note that will appear regardless if I change back as it saves the codes in that way. This is an issue I am aware of and only exists because of the use of the extention "Prettier".
+- Validation Issues: This is a previous issue that i had to manually improve. It was caused by the use of Prettier (extension) formating, this showed up as validation issues in "Validator.w3" HTML validator, since "Prettier" added "/> towards the end of all my codes. This was an issue that i resolved and I am aware to not use Prettier extentions again. Now I have no Validation issue for my Website "Productivity".
 
 ## Deployment
 

@@ -1,6 +1,6 @@
 ## Testing
 
-- ## Testing and Iteration
+- ## Testing and Code Validation
 
   - In order to increase my projects user experience, I conducted testing for my html and css for all my pages.
 
