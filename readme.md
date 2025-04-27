@@ -142,6 +142,17 @@ Below you will find the different features that is used in my project. The value
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Testing
+
+- ## Testing and Iteration
+
+  - In order to increase my projects user experience, I conducted testing for my html and css for all my pages.
+
+    - For HTML validation, I used the [W3C HTML Validator](https://validator.w3.org/).
+    - For CSS validation, I used the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
+    - For Accessability testing, I used the [PageSPeed](https://pagespeed.web.dev/).
+    
+
 ## User Experience
 
 - ## Introduction
@@ -172,14 +183,6 @@ Below you will find the different features that is used in my project. The value
 
   - My project can be accessible to users and online platform search through my use of #keywords to increase user ability to find my page. This includes #productivity.
 
-- ## Testing and Iteration
-
-  - In order to increase my projects user experience, I conducted testing for my html and css for all my pages.
-
-    - For HTML validation, I used the [W3C HTML Validator](https://validator.w3.org/).
-    - For CSS validation, I used the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
-
-    - For Accessability testing, I used the [PageSPeed](https://pagespeed.web.dev/).
 
 - ## Performance Optimization
 
