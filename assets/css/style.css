@@ -373,10 +373,13 @@ a {
   position: relative;
 }
 
+/*REMOVE 
 #content-wrap {
-  padding-bottom: 2.5rem; /* Footer height */
+  padding-bottom: 2.5rem; 
   min-height: 90vh;
 }
+*/
+
 
 /*footer styling color, position */
 
