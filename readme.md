@@ -30,7 +30,6 @@ Below you will find the different features that is used in my project. The value
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## Design
 
 - ## Design Philosophy
@@ -43,7 +42,7 @@ Below you will find the different features that is used in my project. The value
 
 - The pink accent color was selected for its ability to stand out against the neutral background, creating a sense of urgency and action. It was specifically applied to the sign-up button to encourage conversions, drawing the user's attention immediately to the call to action.
 
-- I changed my intial shade of colour in my footer from grey to pint accent color in order to have a nice contrast between the greys and black, hence why I opted for all three shades to be used throughout my websites pages. Another reason for the change was due to incohesiveness accross different pages specifically index page with other pages to have a consistent theme colors. 
+- I changed my intial shade of colour in my footer from grey to pint accent color in order to have a nice contrast between the greys and black, hence why I opted for all three shades to be used throughout my websites pages. Another reason for the change was due to incohesiveness accross different pages specifically index page with other pages to have a consistent theme colors.
 
 <div align="center">
   <img src="assets/readme-images/colour palate.png" style="background-color: black" alt="Horizon Photo">
@@ -52,7 +51,7 @@ Below you will find the different features that is used in my project. The value
 - Typography: The fonts used are Source Sans Pro and Lora, chosen for their readability and modern, yet simple design.
 
 - ## Layout
-The layout of the Productivity website follows a simple, intuitive structure that emphasizes ease of navigation and content accessibility. The layout is divided into key sections:
+  The layout of the Productivity website follows a simple, intuitive structure that emphasizes ease of navigation and content accessibility. The layout is divided into key sections:
 
 Header: A clear and concise navigation menu for easy access to important pages like Home, Sign Up, and Contact Us.
 
@@ -63,18 +62,15 @@ Footer: Contains useful links, including social media icons and copyright inform
 The layout is responsive, meaning it adjusts seamlessly to different screen sizes, ensuring an optimal experience for users across mobile, tablet, and desktop devices.
 
 - ## Wireframes & Mockups
-Wireframes or mockups was used in order to help me visualize the layout and user interface (UI) before development begins.The wireframes for Producitivity website were produced in [Balsamiq](https://balsamiq.com). Below are the initial designs for key sections of the website.
-
+  Wireframes or mockups was used in order to help me visualize the layout and user interface (UI) before development begins.The wireframes for Producitivity website were produced in [Balsamiq](https://balsamiq.com). Below are the initial designs for key sections of the website.
 
 ![Home Page wireframe image](assets/readme-images/homepagewireframe.png)
 
-![Sign Up page wireframe image](assets/readme-images/signupwireframe.png) 
-
+![Sign Up page wireframe image](assets/readme-images/signupwireframe.png)
 
 - Homepage Wireframe
 
 The homepage features a large hero image, a clean navigation menu, and engaging call-to-action buttons. The design allows for easy user interaction and a seamless flow of information.
-
 
 - Sign-Up Page Wireframe
 
@@ -123,7 +119,6 @@ The favicon is a simplified version of the logo target with an arrow—also feat
 <div align="center">
   <img src="assets/readme-images/join-today-button.png" style="background-color: black" alt="Horizon Photo">
 </div>
-
 
 - ## Home page articles
 
@@ -182,10 +177,11 @@ The favicon is a simplified version of the logo target with an arrow—also feat
 - ## Form Validation
 - Client-Side Validation:
 
-To ensure the user submits correct and complete information, client-side validation is implemented using JavaScript. 
+To ensure the user submits correct and complete information, client-side validation is implemented using JavaScript.
 The form validates that the name field is not empty, the email is in the correct format, and that the goals field is filled out.
 
 Error Handling:
+
 - If the user fails to fill out any required field, an error message appears, prompting them to correct the input before submission.
 
 Real-time feedback is provided, guiding the user to correct any issues as they fill out the form.
@@ -226,9 +222,9 @@ Real-time feedback is provided, guiding the user to correct any issues as they f
     - For CSS validation, I used the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
     - For Accessability testing, I used the [PageSPeed](https://pagespeed.web.dev/).
 
-    Please refer to [**_here_**](TESTING.md) for more information on testing Productivity.
+Please refer to [**_here_**](./TESTING.md) for more information on testing Productivity.
 
-  <p align="right">(<a href="#readme-top">back to top</a>)</p> 
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## User Experience
 
@@ -259,7 +255,6 @@ Real-time feedback is provided, guiding the user to correct any issues as they f
 - ## Accessibility
 
   - My project can be accessible to users and online platform search through my use of #keywords to increase user ability to find my page. This includes #productivity.
-
 
 - ## Performance Optimization
 
