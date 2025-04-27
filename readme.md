@@ -80,6 +80,26 @@ The homepage features a large hero image, a clean navigation menu, and engaging 
 
 The sign-up page is straightforward, featuring a simple form with fields for name, email, and user goals. The goal is to minimize friction for new users.
 
+- ##Logo and Favicon
+
+##Logo
+The custom logo features an arrow hitting a target, symbolizing focus, goal-setting, and achievement. This reflects the purpose of the website—helping users stay productive and intentional. The target incorporates the website's signature pink accent color to stand out against the neutral palette and reinforce visual identity.
+
+##Favicon
+The favicon is a simplified version of the logo target with an arrow—also featuring the pink accent. It ensures consistency across branding elements and makes the site easily recognizable in browser tabs.
+
+<div align="center">
+  <img src="assets\favicon\logoforfavicon.png" style="background-color: black" alt="Logo">
+  <br>
+  <small><i>Above is the logo created to be used for the Favicon</i></small>
+</div>
+
+<div align="center">
+  <img src="assets\favicon\favicon-32x32.png" style="background-color: black" alt="Favicon">
+  <br>
+  <small><i>Above is the favicon logo used for the website</i></small>
+</div>
+
 ## Home-page
 
 - ## Navigating Menu
