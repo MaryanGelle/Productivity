@@ -167,7 +167,7 @@ The favicon is a simplified version of the logo target with an arrow also featur
 <img src="assets\readme-images\footerimage.jpg" style="background-color: black" alt="Website footer with social media links">
  </div>
 
-
+[Back to top](#contents)
 
 ## Mindset-page
 
@@ -203,7 +203,7 @@ By focusing on the effectiveness of productivity tools and offering users a tang
       <img src="assets\readme-images\article2.jpg" style="background-color: black" alt="Productivity tool image">
     </div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[Back to top](#contents)
 
 
 - ## Social Media Link
@@ -219,6 +219,8 @@ By focusing on the effectiveness of productivity tools and offering users a tang
     <div align="center">
       <img src="assets\readme-images\footerimage.jpg" style="background-color: black" alt="Footer image with copyright">
   </div>
+
+[Back to top](#contents)
 
 ## Sign-up
 
@@ -246,6 +248,8 @@ Real-time feedback is provided, guiding user to correct any issues as they fill 
   <img src="assets\readme-images\signupvalidation.png" style="background-color:     black" alt="Contact page top">
     </div>
 
+[Back to top](#contents)
+
 ## Contact-us
 
 - ## Contact Us Page
@@ -269,14 +273,14 @@ Real-time feedback is provided, guiding user to correct any issues as they fill 
   <img src="assets\readme-images\contactbottom.jpg">
 </div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[Back to top](#contents)
 
 ## License
 
 - ## License used
   - The Project/ Website is licensed under the MIT License as Copyright (c) 2025 MaryanGelle this has been updated in all websites.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[Back to top](#contents)
 
 ## Testing
 
@@ -290,7 +294,7 @@ Real-time feedback is provided, guiding user to correct any issues as they fill 
 
 Please refer to [**_here_**](TESTING.md) for more information on testing Productivity.
 
-  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+[Back to top](#contents)
 
 ## User Experience
 
@@ -332,7 +336,7 @@ Please refer to [**_here_**](TESTING.md) for more information on testing Product
 
   - The integrated map on the contact page has a bug that is extended a little bit towards one side of the page. This bug was due to the iframe and I was unable to fix it, it doesn't belong to me as i found it on google.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[Back to top](#contents)
 
 - ## Technology Used
 
@@ -351,6 +355,8 @@ Please refer to [**_here_**](TESTING.md) for more information on testing Product
 ### Validation Bugs
 
 - Validation Issues: This is a previous issue that i had to manually improve. It was caused by the use of Prettier (extension) formating, this showed up as validation issues in "Validator.w3" HTML validator, since "Prettier" added "/> towards the end of all my codes. This was an issue that i resolved and I am aware to not use Prettier extensions again. Now I have no Validation issue for my Website "Productivity".
+
+[Back to top](#contents)
 
 ## Deployment
 
@@ -387,7 +393,7 @@ Requirements:
 9. Confirm your selection.
 10. Wait a moment for the changes to propagate. Your website should be live shortly. You can view an example here https://maryangelle.github.io/Productivity/.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[Back to top](#contents)
 
 ## Credit
 
@@ -421,10 +427,10 @@ Requirements:
 
   All third-party content used (such as fonts, icons, images, mockups, map embeds, and code snippets) are credited to their respective authors. Where content was adapted or referenced from online tutorials or documentation, appropriate attribution has been made. If any attribution was missed, it was unintentional and will be corrected upon notification.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[Back to top](#contents)
 
 ## Acknowledgment
 
 - This website was made by Maryan Gelle (Developer) as a Project 1 for my IT FullStack Developer programme at Code Institute in 2025.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[Back to top](#contents)
