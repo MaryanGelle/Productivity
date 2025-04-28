@@ -26,11 +26,14 @@ We welcome you to your new go-to website that will help you take a step forward 
 - [Credit](#credit)
 - [Acknowledgment](#acknowledgment)
 
+### Back to Top:
+[Back to top](#contents)
+
 ## Features
 
 Below you will find the different features that is used in my project. The value the features used provide to my website and why it useful for my users in navigating through the website.
 
-[Back to top](<##contents>)
+[Back to top](<#contents>)
 
 ## Design
 
