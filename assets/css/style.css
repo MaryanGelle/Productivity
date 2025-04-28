@@ -429,12 +429,12 @@ ul.social-networks {
 
 /* styling form page to clean up footer */
 
-div#content-wrap .form-section {
+#formresponse, #contactresponse, div#content-wrap .form-section {
   min-height: 70vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: auto;
+  margin: auto;
 }
 
 
