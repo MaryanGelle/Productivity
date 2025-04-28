@@ -116,11 +116,14 @@ The favicon is a simplified version of the logo target with an arrow also featur
 </div>
 
 - ## Button inside the Landing page image
-  - The button is clickable functional element that I used inside my landing page image. Its purpose is to create a function or action that grabs my users attention and thus pushing them to take action. It navigates the users towards the sign up page. It also pushes them to make a quick decision to sign up.
+  - The button is clickable functional element that I used inside my landing page image. Its purpose is to create a function or action that grabs my users attention and thus pushing them to take action. It navigates the users towards the sign up page. It also pushes them to make a quick decision to sign up today.
 
 <div align="center">
   <img src="assets\readme-images\buttoninhero.jpg" style="background-color: black" alt="Horizon Photo">
 </div>
+
+
+## Mindset-page
 
 - ## Home page articles
 
@@ -149,9 +152,6 @@ The favicon is a simplified version of the logo target with an arrow also featur
 <div align="center">
     <img src="assets/readme-images/ethos.png" style="background-color: black" alt="Horizon Photo">
   </div>
-
-## Mindset-page
-
 ## Footer
 
 - ## Social Media Link
