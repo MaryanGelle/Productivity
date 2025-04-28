@@ -5,7 +5,7 @@ Productivity is a life-hack website for anyone who is interested to make a chang
 We welcome you to your new go-to website that will help you take a step forward on your journey to success. We believe successful is measured in different ways but time-management to be the core and center to your goals. Productivity site will be useful also for friends and families who want motivate each other, we offer you the ability to track your time and see exactly where you are today and how you can improve. You can access our platform through <a href="https://maryangelle.github.io/Productivity/" target="_blank" rel="noopener">Productivity Website</a> .
 
 <div align="center">
-  <img src="assets\readme-images\mockupimages.png" style="background-color: black" alt="Horizon Photo">
+  <img src="assets\readme-images\mockupimages.png" style="background-color: black" alt="Productivity website mockup on mobile and desktop">
 </div>
 
 ## Table of Contents
@@ -47,7 +47,7 @@ Below you will find the different features that is used in my project. The value
 - I changed my initial shade of colour in my footer from grey to pink accent color in order to have a nice contrast between the greys and black, hence why I opted for all three shades to be used throughout my websites pages. Another reason for the change was due to inconsistency accross different pages specifically index page with other pages to have a consistent theme colors.
 
 <div align="center">
-  <img src="assets/readme-images/colour palate.png" style="background-color: black" alt="Horizon Photo">
+  <img src="assets/readme-images/colour palate.png" style="background-color: black" alt="Color palette for the website">
 </div>
 
 - Typography: The fonts used are Source Sans Pro and Lora, chosen for their readability and modern, yet simple design.
@@ -87,13 +87,13 @@ Favicon
 The favicon is a simplified version of the logo target with an arrow also featuring the pink accent. It ensures consistency across branding elements and makes the site easily recognizable in browser tabs.
 
 <div align="center">
-  <img src="assets\favicon\logoforfavicon.png" style="background-color: black" alt="Logo">
+  <img src="assets\favicon\logoforfavicon.png" style="background-color: black" alt="Website logo with arrow and target">
   <br>
   <small><i>Above is the logo created to be used for the Favicon</i></small>
 </div>
 
 <div align="center">
-  <img src="assets\favicon\favicon-32x32.png" style="background-color: black" alt="Favicon">
+  <img src="assets\favicon\favicon-32x32.png" style="background-color: black" alt="Website favicon showing target symbol">
   <br>
   <small><i>Above is the favicon logo used for the website</i></small>
 </div>
@@ -105,21 +105,21 @@ The favicon is a simplified version of the logo target with an arrow also featur
   - Top left side of my header you will find the logo "productivity", it is clickable and once clicked on it will take you back to the home page (main menu). The purpose is to create a user-friend responsive page.
 
 <div align="center">
-  <img src="assets\readme-images\navigatingmenu.jpg" style="background-color: black" alt="Horizon Photo">
+  <img src="assets\readme-images\navigatingmenu.jpg" style="background-color: black" alt="Navigation menu on homepage">
 </div>
 
 - ## Landing page image
   - In my page, I utilize a hero image to be an attention-grabbing visual centerpiece, chosen specifically to captivate users' attention and immerse them into the essence of my website from the moment they arrive.
 
 <div align="center">
-  <img src="assets/images/hero.png" style="background-color: black" alt="Horizon Photo">
+  <img src="assets/images/hero.png" style="background-color: black" alt="Hero image showcasing productivity">
 </div>
 
 - ## Button inside the Landing page image
   - The button is clickable functional element that I used inside my landing page image. Its purpose is to create a function or action that grabs my users attention and thus pushing them to take action. It navigates the users towards the sign up page. It also pushes them to make a quick decision to sign up today.
 
 <div align="center">
-  <img src="assets\readme-images\buttoninhero.jpg" style="background-color: black" alt="Horizon Photo">
+  <img src="assets\readme-images\buttoninhero.jpg" style="background-color: black" alt="Call-to-action button in hero image">
 </div>
 
 ### TODOIST: Time Management Tool
@@ -130,7 +130,7 @@ The favicon is a simplified version of the logo target with an arrow also featur
   - Helps organize and prioritize tasks, reducing procrastination.
 
   <div align="center">
-<img src="assets\readme-images\todoist.jpg" style="background-color: black" alt="Horizon Photo">
+<img src="assets\readme-images\todoist.jpg" style="background-color: black" alt="TODOIST time management tool interface">
  </div>
 
 ### Real Results from Real Users
@@ -139,7 +139,7 @@ The favicon is a simplified version of the logo target with an arrow also featur
 
   
   <div align="center">
-<img src="assets\readme-images\testimony.jpg" style="background-color: black" alt="Horizon Photo">
+<img src="assets\readme-images\testimony.jpg" style="background-color: black" alt="Testimonial from Mona about TODOIST">
  </div>
 
 ### Call to Action
@@ -150,7 +150,7 @@ The favicon is a simplified version of the logo target with an arrow also featur
     2. Create a task list.
     3. Achieve goals with reminders and progress tracking.
  <div align="center">
-<img src="assets\readme-images\calltoaction.jpg" style="background-color: black" alt="Horizon Photo">
+<img src="assets\readme-images\calltoaction.jpg" style="background-color: black" alt="Call to action for sign-up offer">
  </div>
 
 
@@ -160,7 +160,7 @@ The favicon is a simplified version of the logo target with an arrow also featur
 - **Copyright Information**: Legal copyright information is included at the bottom for credibility and professional appearance.
   - Copyright (c) 2025 Maryan Gelle
 
-<img src="assets\readme-images\footerimage.jpg" style="background-color: black" alt="Horizon Photo">
+<img src="assets\readme-images\footerimage.jpg" style="background-color: black" alt="Website footer with social media links">
  </div>
 
 
@@ -180,7 +180,7 @@ The graphical structure used in this section adds visual appeal and makes the co
 The purpose is to create trust with users and to reinforce the idea that cultivating the right mindset is essential for personal and professional success. The ethos section motivates users to consider and apply the principles of mindset to enhance their productivity.
 
 <div align="center">
-    <img src="assets/readme-images/ethos.png" style="background-color: black" alt="Horizon Photo">
+    <img src="assets/readme-images/ethos.png" style="background-color: black" alt="Mindset graphic">
   </div>
 
 
@@ -196,7 +196,7 @@ Encourage sign-ups, providing an incentive for users to join the platform, such 
 By focusing on the effectiveness of productivity tools and offering users a tangible reward for signing up, this article aims to provide practical solutions and a motivating reason for users to take action.
 
 <div align="center">
-      <img src="assets\readme-images\article2.jpg" style="background-color: black" alt="Horizon Photo">
+      <img src="assets\readme-images\article2.jpg" style="background-color: black" alt="Productivity tool image">
     </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -213,7 +213,7 @@ By focusing on the effectiveness of productivity tools and offering users a tang
   - It creates professionalism and trust. Users will view my website as credible.
 
     <div align="center">
-      <img src="assets\readme-images\footerimage.jpg" style="background-color: black" alt="Horizon Photo">
+      <img src="assets\readme-images\footerimage.jpg" style="background-color: black" alt="Footer image with copyright">
   </div>
 
 ## Sign-up
@@ -223,7 +223,7 @@ By focusing on the effectiveness of productivity tools and offering users a tang
   - It allows users to access our services.
 
 <div align="center">
-  <img src="assets\readme-images\signupform.jpg" style="background-color:     black" alt="Horizon Photo">
+  <img src="assets\readme-images\signupform.jpg" style="background-color:     black" alt="Sign-up form">
     </div>
 
 - ## Form Validation
@@ -239,7 +239,7 @@ Error Handling:
 Real-time feedback is provided, guiding user to correct any issues as they fill out the form.
 
 <div align="center">
-  <img src="assets\readme-images\signupvalidation.png" style="background-color:     black" alt="Horizon Photo">
+  <img src="assets\readme-images\signupvalidation.png" style="background-color:     black" alt="Contact page top">
     </div>
 
 ## Contact-us
@@ -262,7 +262,7 @@ Real-time feedback is provided, guiding user to correct any issues as they fill 
   - A field to ask how we can assist them.
 
 <div align="center">
-  <img src="assets\readme-images\contactbottom.jpg" style="background-color: black" alt="Horizon Photo">
+  <img src="asContact page bottom">
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
