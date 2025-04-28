@@ -12,6 +12,7 @@
 
       ![W3C Validator test result](assets/readme-images/indexhtmlvalidator.png)
 
+
     * Mindset Page
       ![W3C Validator test result](assets\readme-images\mindsethtmlvalidator.png)
 
