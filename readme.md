@@ -33,7 +33,6 @@ We welcome you to your new go-to website that will help you take a step forward 
 
 Below you will find the different features that is used in my project. The value the features used provide to my website and why it useful for my users in navigating through the website.
 
-[Back to top](<#contents>)
 
 ## Design
 
@@ -100,6 +99,8 @@ The favicon is a simplified version of the logo target with an arrow also featur
   <br>
   <small><i>Above is the favicon logo used for the website</i></small>
 </div>
+
+[Back to top](#contents)
 
 ## Home-page
 
