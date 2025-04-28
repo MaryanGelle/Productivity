@@ -2,7 +2,7 @@
 
 - ## Testing and Code Validation Evidence
 
-  - In order to increase my projects user experience, I conducted testing for my html and css for all my pages.
+  - In order to increase my project's user experience, I conducted testing for my HTML and CSS for all my pages.
 
     - For HTML validation, I used the [W3C HTML Validator](https://validator.w3.org/).
 
@@ -25,7 +25,7 @@
   <img src="assets/readme-images/contactresponcehtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
-  Sign-up Responce Page
+  Sign-up Response Page
   <img src="assets/readme-images/formresponcehtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
@@ -43,7 +43,7 @@
 
   Page Speed Insights
 
-    - For Accessability testing for both mobile and desktop device, I used the [PageSPeed](https://pagespeed.web.dev/).
+    - For Accessibility testing for both mobile and desktop device, I used the [PageSpeed](https://pagespeed.web.dev/).
 
 
 Here are the mobile performance result from Google's PageSpeed Insights for the site:
