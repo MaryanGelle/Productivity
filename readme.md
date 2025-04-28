@@ -213,7 +213,7 @@ By focusing on the effectiveness of productivity tools and offering users a tang
   - It creates professionalism and trust. Users will view my website as credible.
 
     <div align="center">
-      <img src="assets/readme-images/footer.png" style="background-color: black" alt="Horizon Photo">
+      <img src="assets\readme-images\footerimage.jpg" style="background-color: black" alt="Horizon Photo">
   </div>
 
 ## Sign-up
