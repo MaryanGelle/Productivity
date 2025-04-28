@@ -17,7 +17,7 @@ We welcome you to your new go-to website that will help you take a step forward 
 - [Sign Up Page](#sign-up)
 - [Contact Us](#contact-us)
 - [License](#license)
-- [Testing](#user-experience-ux)
+- [Testing](#testing)
 - [Bugs](#bugs)
 - [Technology used](#technology-used)
 - [Deployment](#deployment)
