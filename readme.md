@@ -252,7 +252,6 @@ Real-time feedback is provided, guiding user to correct any issues as they fill 
   - Email: info@productivitybuddy.com
   - **Google Map Integration**: Provides an accurate and interactive representation of our organization's location, making it easy for users to find us.
 
-  Contact page top section
 <div align="center">
   <img src="assets\readme-images\contacttop.jpg" style="background-color: black" alt="Horizon Photo">
 </div>
@@ -262,7 +261,6 @@ Real-time feedback is provided, guiding user to correct any issues as they fill 
   - Email
   - A field to ask how we can assist them.
 
-Contact page bottom section
 <div align="center">
   <img src="assets\readme-images\contactbottom.jpg" style="background-color: black" alt="Horizon Photo">
 </div>
