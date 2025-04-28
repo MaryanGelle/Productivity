@@ -9,28 +9,28 @@
     - All my HTML pages come out clear. Please see results from W3C Validator test for each page below:
 
   Home Page
-  <img src="assets/readme-images/indexhtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
+  <img src="assets/readme-images/indexhtmlvalidator.png" style="background-color: black" alt="Home page HTML validation">
 </div>
 
 
   Mindset Page
-  <img src="assets/readme-images/mindsethtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
+  <img src="assets/readme-images/mindsethtmlvalidator.png" style="background-color: black" alt="Mindset page HTML validation">
 </div>
 
   Sign-up Page
-  <img src="assets\readme-images\signhtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
+  <img src="assets\readme-images\signhtmlvalidator.png" style="background-color: black" alt="Sign-up page HTML validation">
 </div>
 
   Contact Page
-  <img src="assets/readme-images/contactresponcehtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
+  <img src="assets/readme-images/contactresponcehtmlvalidator.png" style="background-color: black" alt="Contact page HTML validation">
 </div>
 
   Sign-up Response Page
-  <img src="assets/readme-images/formresponcehtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
+  <img src="assets/readme-images/formresponcehtmlvalidator.png" style="background-color: black" alt="Sign-up response page HTML validation">
 </div>
 
   Contact Form Response Page
-  <img src="assets/readme-images/contactresponcehtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
+  <img src="assets/readme-images/contactresponcehtmlvalidator.png" style="background-color: black" alt="Contact form response HTML validation">
 </div>
 
   For CSS validation, I used the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
@@ -38,7 +38,7 @@
   My CSS Validation results also come out clear. Please see results from W3C CSS Validator test below:
 
   CSS
-  <img src="assets/readme-images/cssvalidator.png" style="background-color: black" alt="Horizon Photo">
+  <img src="assets/readme-images/cssvalidator.png" style="background-color: black" alt="CSS validation results">
 </div>
 
   Page Speed Insights
