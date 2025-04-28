@@ -33,9 +33,9 @@
   <img src="assets/readme-images/contactresponcehtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
-    - For CSS validation, I used the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
+  For CSS validation, I used the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
 
-    - My CSS Validation results also come out clear. Please see results from W3C CSS Validator test below:
+  My CSS Validation results also come out clear. Please see results from W3C CSS Validator test below:
 
   CSS
   <img src="assets/readme-images/cssvalidator.png" style="background-color: black" alt="Horizon Photo">
@@ -43,7 +43,7 @@
 
   Page Speed Insights
 
-    - For Accessibility testing for both mobile and desktop device, I used the [PageSpeed](https://pagespeed.web.dev/).
+  For Accessibility testing for both mobile and desktop device, I used the [PageSpeed](https://pagespeed.web.dev/).
 
 
 Here are the mobile performance result from Google's PageSpeed Insights for the site:
