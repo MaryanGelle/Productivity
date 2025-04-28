@@ -223,7 +223,7 @@ By focusing on the effectiveness of productivity tools and offering users a tang
   - It allows users to access our services.
 
 <div align="center">
-  <img src="assets/readme-images/form.png" style="background-color:     black" alt="Horizon Photo">
+  <img src="assets\readme-images\signupform.jpg" style="background-color:     black" alt="Horizon Photo">
     </div>
 
 - ## Form Validation
