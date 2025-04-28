@@ -8,41 +8,31 @@
 
     - All my HTML pages come out clear. Please see results from W3C Validator test for each page below:
 
-    * Home Page
-
-      ![W3C Validator test result]
-  <div align="center">
+    Home Page
+ 
   <img src="assets/readme-images/indexhtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
 
-    * Mindset Page
-      ![W3C Validator test result]
-      <div align="center">
+    Mindset Page
   <img src="assets/readme-images/mindsethtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
-    * Sign-up Page
-      ![W3C Validator test result]
-      <div align="center">
+  Sign-up Page
+ 
   <img src="assets/readme-images/signupvalidation.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
-    * Contact Page
-      ![W3C Validator test result]
-      <div align="center">
+  Contact Page
+      
   <img src="assets/readme-images/contacthtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
-    * Sign-up Responce Page
-      ![W3C Validator test result]
-      <div align="center">
+  Sign-up Responce Page
   <img src="assets/readme-images/formresponcehtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
-    * Contact Form Response Page
-      ![W3C Validator test result]
-      <div align="center">
+  Contact Form Response Page
   <img src="assets/readme-images/contactresponcehtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
@@ -50,13 +40,11 @@
 
     - My CSS Validation results also come out clear. Please see results from W3C CSS Validator test below:
 
-    * CSS
-      ![W3C Validator test result]
-      <div align="center">
+  CSS
   <img src="assets/readme-images/cssvalidator.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
-    ## Page Speed Insights
+  Page Speed Insights
 
     - For Accessability testing for both mobile and desktop device, I used the [PageSPeed](https://pagespeed.web.dev/).
 
@@ -66,7 +54,6 @@ Here are the mobile performance result from Google's PageSpeed Insights for the 
 - **Performance Score**: 93/100
 - **Accessibility Score**: 92/100
 
-![Page Speed Result]
 <div align="center">
   <img src="assets/readme-images/performanceindexmobile.png" style="background-color: black" alt="Horizon Photo">
 </div>
@@ -78,7 +65,6 @@ Here are the desktop performance result from Google's PageSpeed Insights for the
 - **Performance Score**: 100/100
 - **Accessibility Score**: 92/100
 
-![Page Speed Result]
 <div align="center">
   <img src="assets/readme-images/desktopperformance.png" style="background-color: black" alt="Horizon Photo">
 </div>
