@@ -104,7 +104,7 @@ The favicon is a simplified version of the logo target with an arrow also featur
   - Top left side of my header you will find the logo "productivity", it is clickable and once clicked on it will take you back to the home page (main menu). The purpose is to create a user-friend responsive page.
 
 <div align="center">
-  <img src="assets/readme-images/navigation-menu.png" style="background-color: black" alt="Horizon Photo">
+  <img src="assets\readme-images\navigatingmenu.jpg" style="background-color: black" alt="Horizon Photo">
 </div>
 
 - ## Landing page image
