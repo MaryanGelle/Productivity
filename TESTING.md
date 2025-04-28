@@ -12,6 +12,10 @@
 
       ![W3C Validator test result](assets\readme-images\indexhtmlvalidator.png)
 
+      <div align="center">
+  <img src="assets/readme-images/indexhtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
+</div>
+
 
     * Mindset Page
       ![W3C Validator test result](assets\readme-images\mindsethtmlvalidator.png)
