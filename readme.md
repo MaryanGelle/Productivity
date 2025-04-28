@@ -18,6 +18,7 @@ We welcome you to your new go-to website that will help you take a step forward 
 - [Contact Us](#contact-us)
 - [License](#license)
 - [Testing](#testing)
+- [User Experience](#user-experience)
 - [Bugs](#bugs)
 - [Technology used](#technology-used)
 - [Deployment](#deployment)
