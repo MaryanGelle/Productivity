@@ -129,9 +129,18 @@ The favicon is a simplified version of the logo target with an arrow also featur
   - Collaborate with others to stay accountable.
   - Helps organize and prioritize tasks, reducing procrastination.
 
+  <div align="center">
+<img src="assets\readme-images\todoist.jpg" style="background-color: black" alt="Horizon Photo">
+ </div>
+
 ### Real Results from Real Users
 - The website shares a testimonial from Mona, a college student, explaining how TODOIST has helped her manage her time and stay on track with deadlines.
   - **Testimonial**: "TODOIST has completely changed how I manage my time. As a college student, keeping track of deadlines used to be overwhelming. Now, with personalized reminders and an organized to-do list, I stay focused, avoid procrastination, and actually feel in control of my schedule!"
+
+  
+  <div align="center">
+<img src="assets\readme-images\testimony.jpg" style="background-color: black" alt="Horizon Photo">
+ </div>
 
 ### Call to Action
 - Users are encouraged to sign up and start using **TODOIST** with a promotional offer:
@@ -140,12 +149,22 @@ The favicon is a simplified version of the logo target with an arrow also featur
     1. Sign up.
     2. Create a task list.
     3. Achieve goals with reminders and progress tracking.
+ <div align="center">
+<img src="assets\readme-images\calltoaction.jpg" style="background-color: black" alt="Horizon Photo">
+ </div>
+
+
 
 ### Footer
 - **Social Media Links**: Icons are provided at the bottom of the page for easy access to the website’s social media profiles (Facebook, Twitter, Instagram, LinkedIn).
 - **Copyright Information**: Legal copyright information is included at the bottom for credibility and professional appearance.
   - Copyright (c) 2025 Maryan Gelle
-  
+
+<img src="assets\readme-images\footerimage.jpg" style="background-color: black" alt="Horizon Photo">
+ </div>
+
+
+
 ## Mindset-page
 
 - ## Home page articles
