@@ -8,7 +8,7 @@
 
     - All my HTML pages come out clear. Please see results from W3C Validator test for each page below:
 
-    Home Page
+  Home Page
   <img src="assets/readme-images/indexhtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
@@ -18,7 +18,7 @@
 </div>
 
   Sign-up Page
-  <img src="assets/readme-images/signupvalidation.png" style="background-color: black" alt="Horizon Photo">
+  <img src="assets\readme-images\signhtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
   Contact Page
