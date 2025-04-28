@@ -8,7 +8,7 @@ We welcome you to your new go-to website that will help you take a step forward 
   <img src="assets\readme-images\mockupimages.png" style="background-color: black" alt="Productivity website mockup on mobile and desktop">
 </div>
 
-## Table of Contents
+## Contents
 
 - [Features](#features)
 - [Design](#design)
@@ -30,7 +30,7 @@ We welcome you to your new go-to website that will help you take a step forward 
 
 Below you will find the different features that is used in my project. The value the features used provide to my website and why it useful for my users in navigating through the website.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[Back to top](<##contents>)
 
 ## Design
 
@@ -262,7 +262,7 @@ Real-time feedback is provided, guiding user to correct any issues as they fill 
   - A field to ask how we can assist them.
 
 <div align="center">
-  <img src="asContact page bottom">
+  <img src="assets\readme-images\contactbottom.jpg">
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
