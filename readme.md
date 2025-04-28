@@ -208,7 +208,7 @@ Real-time feedback is provided, guiding the user to correct any issues as they f
 ## License
 
 - ## License used
-  - The Project/ Website is licensed under the MIT License as Copyright (c) 2023 MaryanGelle this has been updated in all websites.
+  - The Project/ Website is licensed under the MIT License as Copyright (c) 2025 MaryanGelle this has been updated in all websites.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
