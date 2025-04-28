@@ -122,7 +122,30 @@ The favicon is a simplified version of the logo target with an arrow also featur
   <img src="assets\readme-images\buttoninhero.jpg" style="background-color: black" alt="Horizon Photo">
 </div>
 
+### TODOIST: Time Management Tool
+- **TODOIST** is introduced as a powerful time management tool. This section highlights its key features, including task tracking, progress monitoring, and collaboration options with friends, family, or colleagues.
+- **Key Features**:
+  - Monitor daily progress.
+  - Collaborate with others to stay accountable.
+  - Helps organize and prioritize tasks, reducing procrastination.
 
+### Real Results from Real Users
+- The website shares a testimonial from Mona, a college student, explaining how TODOIST has helped her manage her time and stay on track with deadlines.
+  - **Testimonial**: "TODOIST has completely changed how I manage my time. As a college student, keeping track of deadlines used to be overwhelming. Now, with personalized reminders and an organized to-do list, I stay focused, avoid procrastination, and actually feel in control of my schedule!"
+
+### Call to Action
+- Users are encouraged to sign up and start using **TODOIST** with a promotional offer:
+  - **Special Offer**: Get 50% off your first month by joining the community.
+  - **Steps to Get Started**:
+    1. Sign up.
+    2. Create a task list.
+    3. Achieve goals with reminders and progress tracking.
+
+### Footer
+- **Social Media Links**: Icons are provided at the bottom of the page for easy access to the website’s social media profiles (Facebook, Twitter, Instagram, LinkedIn).
+- **Copyright Information**: Legal copyright information is included at the bottom for credibility and professional appearance.
+  - Copyright (c) 2025 Maryan Gelle
+  
 ## Mindset-page
 
 - ## Home page articles
