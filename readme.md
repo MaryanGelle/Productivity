@@ -413,6 +413,8 @@ Requirements:
 
   - Portions of CSS and HTML structure adapted from tutorials on W3Schools and MDN Web Docs.
 
+  - Fictionalized Content: Some user testimonials and quotes on this website are fictional and created for illustrative purposes only. These were designed to demonstrate how the tools and services mentioned can be beneficial. Any resemblance to real persons, living or dead, is purely coincidental.
+
   All third-party content used (such as fonts, icons, images, mockups, map embeds, and code snippets) are credited to their respective authors. Where content was adapted or referenced from online tutorials or documentation, appropriate attribution has been made. If any attribution was missed, it was unintentional and will be corrected upon notification.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
