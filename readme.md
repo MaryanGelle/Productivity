@@ -407,6 +407,10 @@ Requirements:
 
   - Mock images was taken from [Canvas] (https://www.canva.com/p/templates/EAFC1RnsDzs-course-creator-laptop-iphone-mockup-instagram-post/)
 
+  - Wireframes and mockups were created using [Balsamiq](https://balsamiq.com/), which helped visualize the layout and user interface (UI) before development began.
+
+  - Feedback and guidance were provided by mentors at [Code Institute](https://codeinstitute.net).
+
   - Portions of CSS and HTML structure adapted from tutorials on W3Schools and MDN Web Docs.
 
   All third-party content used (such as fonts, icons, images, mockups, map embeds, and code snippets) are credited to their respective authors. Where content was adapted or referenced from online tutorials or documentation, appropriate attribution has been made. If any attribution was missed, it was unintentional and will be corrected upon notification.
