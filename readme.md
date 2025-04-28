@@ -195,7 +195,7 @@ Encourage sign-ups, providing an incentive for users to join the platform, such 
 
 By focusing on the effectiveness of productivity tools and offering users a tangible reward for signing up, this article aims to provide practical solutions and a motivating reason for users to take action.
 
-    <div align="center">
+<div align="center">
       <img src="assets/readme-images/article2.png" style="background-color: black" alt="Horizon Photo">
     </div>
 
