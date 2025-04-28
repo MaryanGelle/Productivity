@@ -246,13 +246,25 @@ Real-time feedback is provided, guiding user to correct any issues as they fill 
 
 - ## Contact Us Page
 
-  - The Contact-us page is a very important part of my website as it directs the users and other companies to get in contact with our organisation.
-  - It provides information that includes contact number and address.
+- **Top Section**: Displays the contact information including:
+  - Address: Empire Banking Building, London
+  - Phone: +44 531 891 777
+  - Email: info@productivitybuddy.com
+  - **Google Map Integration**: Provides an accurate and interactive representation of our organization's location, making it easy for users to find us.
 
-  - Google Map integration function is used to provide an accurate representation of our organization's location. It is interactive and user-friendly.
-
+  Contact page top section
 <div align="center">
-  <img src="assets/readme-images/contact.png" style="background-color: black" alt="Horizon Photo">
+  <img src="assets\readme-images\contacttop.jpg" style="background-color: black" alt="Horizon Photo">
+</div>
+
+- **Bottom Section**: Contains a **contact form** where users can input:
+  - Name
+  - Email
+  - A field to ask how we can assist them.
+
+Contact page bottom section
+<div align="center">
+  <img src="assets\readme-images\contactbottom.jpg" style="background-color: black" alt="Horizon Photo">
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
