@@ -10,7 +10,7 @@
 
     * Home Page
 
-      ![W3C Validator test result](assets/readme-images/indexhtmlvalidator.png)
+      ![W3C Validator test result](assets\readme-images\indexhtmlvalidator.png)
 
 
     * Mindset Page
