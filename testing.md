@@ -9,7 +9,8 @@
     - All my HTML pages come out clear. Please see results from W3C Validator test for each page below:
 
     * Home Page
-      ![W3C Validator test result](assets\readme-images\indexhtmlvalidator.png)
+
+      ![W3C Validator test result](assets/readme-images/indexhtmlvalidator.png)
 
     * Mindset Page
       ![W3C Validator test result](assets\readme-images\mindsethtmlvalidator.png)
