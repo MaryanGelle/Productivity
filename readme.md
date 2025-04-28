@@ -79,10 +79,10 @@ The sign-up page is straightforward, featuring a simple form with fields for nam
 - Logo and Favicon
 
 Logo
-The custom logo features an arrow hitting a target, symbolizing focus, goal-setting, and achievement. This reflects the purpose of the website—helping users stay productive and intentional. The target incorporates the website's signature pink accent color to stand out against the neutral palette and reinforce visual identity.
+The custom logo features an arrow hitting a target, symbolizing focus, goal-setting, and achievement. This reflects the purpose of the website helping users stay productive and intentional. The target incorporates the website's signature pink accent color to stand out against the neutral palette and reinforce visual identity.
 
 Favicon
-The favicon is a simplified version of the logo target with an arrow—also featuring the pink accent. It ensures consistency across branding elements and makes the site easily recognizable in browser tabs.
+The favicon is a simplified version of the logo target with an arrow also featuring the pink accent. It ensures consistency across branding elements and makes the site easily recognizable in browser tabs.
 
 <div align="center">
   <img src="assets\favicon\logoforfavicon.png" style="background-color: black" alt="Logo">
@@ -107,7 +107,7 @@ The favicon is a simplified version of the logo target with an arrow—also feat
 </div>
 
 - ## Landing page image
-  - In my page, I utilize a hero image—an attention-grabbing visual centerpiece—chosen specifically to captivate users' attention and immerse them into the essence of my website from the moment they arrive.
+  - In my page, I utilize a hero image to be an attention-grabbing visual centerpiece, chosen specifically to captivate users' attention and immerse them into the essence of my website from the moment they arrive.
 
 <div align="center">
   <img src="assets/images/hero.png" style="background-color: black" alt="Horizon Photo">
@@ -347,7 +347,7 @@ Requirements:
 
   - Portions of CSS and HTML structure adapted from tutorials on W3Schools and MDN Web Docs.
 
-  -All third-party content used (such as fonts, icons, images, mockups, map embeds, and code snippets) are credited to their respective authors. Where content was adapted or referenced from online tutorials or documentation, appropriate attribution has been made. If any attribution was missed, it was unintentional and will be corrected upon notification.
+  All third-party content used (such as fonts, icons, images, mockups, map embeds, and code snippets) are credited to their respective authors. Where content was adapted or referenced from online tutorials or documentation, appropriate attribution has been made. If any attribution was missed, it was unintentional and will be corrected upon notification.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
