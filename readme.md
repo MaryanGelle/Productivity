@@ -167,15 +167,33 @@ The favicon is a simplified version of the logo target with an arrow also featur
 
 ## Mindset-page
 
-- ## Home page articles
+This page is dedicated to helping users develop the right mindset for improving their productivity. It features two key articles that explore how mindset plays a vital role in achieving success and how you can harness it to be more productive in both personal and professional life.
 
-  - The articles is designed to showcase and provide users with information about my chosen topic "productivity".The two articles in my home page covers interesting topic that is quick read but also ensures that it caters to different users interest. First article grabs users attention on why productivity is successful individuals main area of interest. This is to create a motivation to our users only why they should also consider working on their productivity.
+- ## The First Article
+
+This section emphasizes the importance of developing the right mindset in order to achieve success. It highlights how having a growth mindset can transform your approach to productivity, enabling you to overcome obstacles, stay motivated, and build the habits necessary to maintain a productive lifestyle.
+
+The Ethos section used to be part of the homepage but has now been moved here to the Mindset Page to improve user experience. It’s designed to grab users' attention and communicate why it’s crucial to improve productivity with the right mindset.
+
+The graphical structure used in this section adds visual appeal and makes the concept of improving productivity through mindset more engaging and easily digestible. By using this visual approach, users are more likely to connect with the content and understand the importance of mindset in their productivity journey.
+
+The purpose is to create trust with users and to reinforce the idea that cultivating the right mindset is essential for personal and professional success. The ethos section motivates users to consider and apply the principles of mindset to enhance their productivity.
 
 <div align="center">
-<img src="assets/readme-images/article1.png" style="background-color: black" alt="Horizon Photo">
- </div>
+    <img src="assets/readme-images/ethos.png" style="background-color: black" alt="Horizon Photo">
+  </div>
 
-- The second article provides information about a tool that we recommend users to use in order to work on their productivity. The article has two purpose to grab users attention, to provide motivation to all users, those who need a third party to get motivated such as friends or family. It has also a function and purpose to push users to sign up. It provides users a reward for the sign up such as discount code.
+
+- ## The Second Article
+This article introduces practical tools that can help users improve their productivity, such as TODOIST. It explains the features and benefits of this tool, showcasing how it can be used to track tasks and stay on top of responsibilities.
+
+The article has two main purposes:
+
+Motivate users who may need external encouragement, such as a tool or community, to get started on improving their productivity.
+
+Encourage sign-ups, providing an incentive for users to join the platform, such as a discount code, to help them start their productivity journey with extra benefits.
+
+By focusing on the effectiveness of productivity tools and offering users a tangible reward for signing up, this article aims to provide practical solutions and a motivating reason for users to take action.
 
     <div align="center">
       <img src="assets/readme-images/article2.png" style="background-color: black" alt="Horizon Photo">
@@ -183,18 +201,6 @@ The favicon is a simplified version of the logo target with an arrow also featur
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- ## Mid page Ethos
-
-- The middle part of the home page "ethos" section is used to grab the users attention on why it is important to improve productivity through a graphical structure. This graphics adds visual appeal and provides information in a more aesthetical way. It communicates idea and purpose visually.
-
-- It is suppose to create trust in the users when navigating and taking in information from the website.
-
-- Whilst still staying consistent with the purpose and function of the rest input (article and landing page), Ethos is created in order to encourage and motivate users to improve their productivity.
-
-<div align="center">
-    <img src="assets/readme-images/ethos.png" style="background-color: black" alt="Horizon Photo">
-  </div>
-## Footer
 
 - ## Social Media Link
   - Social media links are used to connect our users from our website towards our social media (Facebook, Twitter, Instagram and Linkedin). It has a purpose to connect with my users and also to promote engagement online.
