@@ -10,46 +10,66 @@
 
     * Home Page
 
-      ![W3C Validator test result](assets\readme-images\indexhtmlvalidator.png)
-
-      <div align="center">
+      ![W3C Validator test result]
+  <div align="center">
   <img src="assets/readme-images/indexhtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
 
     * Mindset Page
-      ![W3C Validator test result](assets\readme-images\mindsethtmlvalidator.png)
+      ![W3C Validator test result]
+      <div align="center">
+  <img src="assets/readme-images/mindsethtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
+</div>
 
     * Sign-up Page
-      ![W3C Validator test result](assets\readme-images\signhtmlvalidator.png)
+      ![W3C Validator test result]
+      <div align="center">
+  <img src="assets/readme-images/signupvalidation.png" style="background-color: black" alt="Horizon Photo">
+</div>
 
     * Contact Page
-      ![W3C Validator test result](assets\readme-images\contacthtmlvalidator.png)
+      ![W3C Validator test result]
+      <div align="center">
+  <img src="assets/readme-images/contacthtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
+</div>
 
     * Sign-up Responce Page
-      ![W3C Validator test result](assets\readme-images\formresponcehtmlvalidator.png)
+      ![W3C Validator test result]
+      <div align="center">
+  <img src="assets/readme-images/formresponcehtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
+</div>
 
     * Contact Form Response Page
-      ![W3C Validator test result](assets\readme-images\contactresponcehtmlvalidator.png)
+      ![W3C Validator test result]
+      <div align="center">
+  <img src="assets/readme-images/contactresponcehtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
+</div>
 
     - For CSS validation, I used the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
 
     - My CSS Validation results also come out clear. Please see results from W3C CSS Validator test below:
 
     * CSS
-      ![W3C Validator test result](assets\readme-images\cssvalidator.png)
+      ![W3C Validator test result]
+      <div align="center">
+  <img src="assets/readme-images/cssvalidator.png" style="background-color: black" alt="Horizon Photo">
+</div>
 
     ## Page Speed Insights
 
     - For Accessability testing for both mobile and desktop device, I used the [PageSPeed](https://pagespeed.web.dev/).
-   
+
 
 Here are the mobile performance result from Google's PageSpeed Insights for the site:
 
 - **Performance Score**: 93/100
 - **Accessibility Score**: 92/100
 
-![Page Speed Result](assets\readme-images\performanceindexmobile.png)
+![Page Speed Result]
+<div align="center">
+  <img src="assets/readme-images/performanceindexmobile.png" style="background-color: black" alt="Horizon Photo">
+</div>
 
 You can also see the full results on [Google PageSpeed Insights](https://pagespeed.web.dev/analysis/https-maryangelle-github-io-Productivity/n8cuijivsc?form_factor=mobile).
 
@@ -58,6 +78,9 @@ Here are the desktop performance result from Google's PageSpeed Insights for the
 - **Performance Score**: 100/100
 - **Accessibility Score**: 92/100
 
-![Page Speed Result](assets\readme-images\desktopperformance.png)
+![Page Speed Result]
+<div align="center">
+  <img src="assets/readme-images/desktopperformance.png" style="background-color: black" alt="Horizon Photo">
+</div>
 
 You can also see the full results on [Google PageSpeed Insights](https://pagespeed.web.dev/analysis/https-maryangelle-github-io-Productivity/n8cuijivsc?form_factor=desktop).
