@@ -9,10 +9,10 @@
     - All my HTML pages come out clear. Please see results from W3C Validator test for each page below:
 
     * Home Page
-      ![W3C Validator test result](assets\readme-images\indexhtmlvalidator.png)
+      ![W3C Validator test result][def]
 
     * Mindset Page
-      ![W3C Validator test result](assets\readme-images\mindsethtmlvalidator.png)
+      ![W3C Validator test result][def]
 
     * Sign-up Page
       ![W3C Validator test result](assets\readme-images\signhtmlvalidator.png)
@@ -55,3 +55,8 @@ Here are the desktop performance result from Google's PageSpeed Insights for the
 ![Page Speed Result](assets\readme-images\desktopperformance.png)
 
 You can also see the full results on [Google PageSpeed Insights](https://pagespeed.web.dev/analysis/https-maryangelle-github-io-Productivity/n8cuijivsc?form_factor=desktop).
+
+
+[def]: assets\readme-images\indexhtmlvalidator.png
+
+[def]: assets\readme-images\mindsethtmlvalidator.png
