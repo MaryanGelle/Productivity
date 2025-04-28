@@ -13,6 +13,7 @@ We welcome you to your new go-to website that will help you take a step forward 
 - [Features](#features)
 - [Design](#design)
 - [Home-page](#home-page)
+- [Mindset-page](#mindset-page)
 - [Footer](#footer)
 - [Sign Up Page](#sign-up)
 - [Contact Us](#contact-us)
@@ -118,7 +119,7 @@ The favicon is a simplified version of the logo target with an arrow also featur
   - The button is clickable functional element that I used inside my landing page image. Its purpose is to create a function or action that grabs my users attention and thus pushing them to take action. It navigates the users towards the sign up page. It also pushes them to make a quick decision to sign up.
 
 <div align="center">
-  <img src="assets/readme-images/join-today-button.png" style="background-color: black" alt="Horizon Photo">
+  <img src="assets\readme-images\buttoninhero.jpg" style="background-color: black" alt="Horizon Photo">
 </div>
 
 - ## Home page articles
@@ -148,6 +149,8 @@ The favicon is a simplified version of the logo target with an arrow also featur
 <div align="center">
     <img src="assets/readme-images/ethos.png" style="background-color: black" alt="Horizon Photo">
   </div>
+
+## Mindset-page
 
 ## Footer
 
