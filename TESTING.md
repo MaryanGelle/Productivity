@@ -22,7 +22,7 @@
 </div>
 
   Contact Page
-  <img src="assets/readme-images/contacthtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
+  <img src="assets/readme-images/contactresponcehtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
   Sign-up Responce Page
