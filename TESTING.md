@@ -9,22 +9,19 @@
     - All my HTML pages come out clear. Please see results from W3C Validator test for each page below:
 
     Home Page
- 
   <img src="assets/readme-images/indexhtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
 
-    Mindset Page
+  Mindset Page
   <img src="assets/readme-images/mindsethtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
   Sign-up Page
- 
   <img src="assets/readme-images/signupvalidation.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
   Contact Page
-      
   <img src="assets/readme-images/contacthtmlvalidator.png" style="background-color: black" alt="Horizon Photo">
 </div>
 
