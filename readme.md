@@ -2,7 +2,7 @@
 
 Productivity is a life-hack website for anyone who is interested to make a change in their life, to get on track of their day to day productivity and even for those that need motivation to stay consistent with their time-management skills.
 
-We welcome you to your new go-to website that will help you take a step forward to your journey of becoming successful. We believe successfull is measured in different ways but time-management to be the core and center to your goals. Productivity site will be useful also for friends and families who want motivate each other, we offer you the ability to track your time and see exactly were you are today and how you can improve. You can access our platform through <a href="https://maryangelle.github.io/Productivity/" target="_blank" rel="noopener">Productivity Website</a> .
+We welcome you to your new go-to website that will help you take a step forward on your journey to success. We believe successful is measured in different ways but time-management to be the core and center to your goals. Productivity site will be useful also for friends and families who want motivate each other, we offer you the ability to track your time and see exactly where you are today and how you can improve. You can access our platform through <a href="https://maryangelle.github.io/Productivity/" target="_blank" rel="noopener">Productivity Website</a> .
 
 <div align="center">
   <img src="assets/readme-images/mockup 2024.png" style="background-color: black" alt="Horizon Photo">
@@ -35,14 +35,14 @@ Below you will find the different features that is used in my project. The value
 - ## Design Philosophy
 - The design of the website is centered around a minimalistic approach, using a neutral color palette and simple typography to ensure that the focus remains on the content. This approach is based on the idea that less is more, allowing users to navigate and use the site with ease.
 
-- ## Colours Scheme
+- ## Colour Scheme
 - The color scheme was inspired by minimalist Scandinavian design, favoring neutral tones like white, grey, and black to create a clean, clutter-free space for users to focus on content. These colors are easy on the eyes, ensuring that the website is comfortable for long-term use, especially for a site about productivity.
 
 - The primary colour used is white, black and grey to create a simple contrast for the eyes for my users and also work in all screens.
 
 - The pink accent color was selected for its ability to stand out against the neutral background, creating a sense of urgency and action. It was specifically applied to the sign-up button to encourage conversions, drawing the user's attention immediately to the call to action.
 
-- I changed my intial shade of colour in my footer from grey to pint accent color in order to have a nice contrast between the greys and black, hence why I opted for all three shades to be used throughout my websites pages. Another reason for the change was due to incohesiveness accross different pages specifically index page with other pages to have a consistent theme colors.
+- I changed my initial shade of colour in my footer from grey to pink accent color in order to have a nice contrast between the greys and black, hence why I opted for all three shades to be used throughout my websites pages. Another reason for the change was due to inconsistency accross different pages specifically index page with other pages to have a consistent theme colors.
 
 <div align="center">
   <img src="assets/readme-images/colour palate.png" style="background-color: black" alt="Horizon Photo">
@@ -62,7 +62,7 @@ Footer: Contains useful links, including social media icons and copyright inform
 The layout is responsive, meaning it adjusts seamlessly to different screen sizes, ensuring an optimal experience for users across mobile, tablet, and desktop devices.
 
 - ## Wireframes & Mockups
-  Wireframes or mockups was used in order to help me visualize the layout and user interface (UI) before development begins.The wireframes for Producitivity website were produced in [Balsamiq](https://balsamiq.com). Below are the initial designs for key sections of the website.
+  Wireframes or mockups were used in order to help me visualize the layout and user interface (UI) before development begins.The wireframes for Productivity website were produced in [Balsamiq](https://balsamiq.com). Below are the initial designs for key sections of the website.
 
 ![Home Page wireframe image](assets/readme-images/homepagewireframe.png)
 
@@ -99,7 +99,7 @@ The favicon is a simplified version of the logo target with an arrow—also feat
 ## Home-page
 
 - ## Navigating Menu
-  - Top right side of my header you find a menu bar, this will be seen accross all three pages. The menu has a purpose of simplifying the navigation of the website for its users. It is responsive and provides the ability to navigate at a quicker speed.
+  - Top right side of my header you find a menu bar, this will be seen across all three pages. The menu has a purpose of simplifying the navigation of the website for its users. It is responsive and provides the ability to navigate at a quicker speed.
   - Top left side of my header you will find the logo "productivity", it is clickable and once clicked on it will take you back to the home page (main menu). The purpose is to create a user-friend responsive page.
 
 <div align="center">
@@ -122,13 +122,13 @@ The favicon is a simplified version of the logo target with an arrow—also feat
 
 - ## Home page articles
 
-  - The articles is designed to showcase and provide users with information about my choicen topic "productivity".The two articles in my home page coveres interesting topic that is quick read but also ensures that it caters to different users interest. First article grabs users attention on why productivity is successfull individuals main area of interest. This is to create a motivation to our users ony why they should also consider working on their productivity.
+  - The articles is designed to showcase and provide users with information about my chosen topic "productivity".The two articles in my home page covers interesting topic that is quick read but also ensures that it caters to different users interest. First article grabs users attention on why productivity is successful individuals main area of interest. This is to create a motivation to our users only why they should also consider working on their productivity.
 
 <div align="center">
 <img src="assets/readme-images/article1.png" style="background-color: black" alt="Horizon Photo">
  </div>
 
-- The second article provides information about a tool that we recommend users to use in order to work on their productivity. The article has two purpuse to grab users attention, to provide motivation to all users, those to we need third party to get motivated such as friends or family. It has also a function and purpose to push users to sign up. It provides users a reward for the sign up such as discount code.
+- The second article provides information about a tool that we recommend users to use in order to work on their productivity. The article has two purpose to grab users attention, to provide motivation to all users, those who need a third party to get motivated such as friends or family. It has also a function and purpose to push users to sign up. It provides users a reward for the sign up such as discount code.
 
     <div align="center">
       <img src="assets/readme-images/article2.png" style="background-color: black" alt="Horizon Photo">
@@ -151,14 +151,14 @@ The favicon is a simplified version of the logo target with an arrow—also feat
 ## Footer
 
 - ## Social Media Link
-  - Social media links is used to connect our users from our website towards our social media (Facebook, Twitter, Instagram and Linkedin). It has a purpose to connect with my users and also to promote engagement online.
-  - The icons is used instead of just typing out the name of social media, this is because the visual appeals more to my users.
+  - Social media links are used to connect our users from our website towards our social media (Facebook, Twitter, Instagram and Linkedin). It has a purpose to connect with my users and also to promote engagement online.
+  - The icons are used instead of just typing out the name of social media, this is because the visual appeals more to my users.
   - Correct sizes of the icons are used that is responsive in all device sizes.
     \*All our pages includes a footer at the bottom of the page, it is consistent and easy accessible to my users.
 - ## Copyright information
 
   - At the bottom of my footer a copyright information is created for legal protection and ownership purpose.
-  - It creates proffessionalism and trust. Users will view my website as credible.
+  - It creates professionalism and trust. Users will view my website as credible.
 
     <div align="center">
       <img src="assets/readme-images/footer.png" style="background-color: black" alt="Horizon Photo">
@@ -167,7 +167,7 @@ The favicon is a simplified version of the logo target with an arrow—also feat
 ## Sign-up
 
 - ## Sign-up form
-  - The Sign up page we added a sign-up form that at the center of the page, that is responsive all different devices and screens. This will allows users to sign up to join others who are also commited. The users are expected provide their name, email and their goals.
+  - The Sign up page we added a sign-up form centered on the page and responsive on all devices and screens. This will allows users to sign up to join others who are also committed. The users are expected provide their name, email and their goals.
   - It allows users to access our services.
 
 <div align="center">
@@ -184,7 +184,7 @@ Error Handling:
 
 - If the user fails to fill out any required field, an error message appears, prompting them to correct the input before submission.
 
-Real-time feedback is provided, guiding the user to correct any issues as they fill out the form.
+Real-time feedback is provided, guiding user to correct any issues as they fill out the form.
 
 <div align="center">
   <img src="assets\readme-images\signupvalidation.png" style="background-color:     black" alt="Horizon Photo">
@@ -194,10 +194,10 @@ Real-time feedback is provided, guiding the user to correct any issues as they f
 
 - ## Contact Us Page
 
-  - The Contact-us page is a very important part of my website as it directs the users and other companys to get in contact with our organisation.
+  - The Contact-us page is a very important part of my website as it directs the users and other companies to get in contact with our organisation.
   - It provides information that includes contact number and address.
 
-  - Google Map integration function is used to provide an accurate representation of our organisations location. It is interactive and user friendly.
+  - Google Map integration function is used to provide an accurate representation of our organization's location. It is interactive and user-friendly.
 
 <div align="center">
   <img src="assets/readme-images/contact.png" style="background-color: black" alt="Horizon Photo">
@@ -220,7 +220,7 @@ Real-time feedback is provided, guiding the user to correct any issues as they f
 
     - For HTML validation, I used the [W3C HTML Validator](https://validator.w3.org/).
     - For CSS validation, I used the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
-    - For Accessability testing, I used the [PageSPeed](https://pagespeed.web.dev/).
+    - For Accessibility testing, I used the [PageSpeed](https://pagespeed.web.dev/).
 
 Please refer to [**_here_**](TESTING.md) for more information on testing Productivity.
 
@@ -234,23 +234,23 @@ Please refer to [**_here_**](TESTING.md) for more information on testing Product
 
 - ## Design Principles
 
-  - My website was created to be user friendly all the design choise is picked in mind to appear aesthetics and user interactive to my users. I followed a minimalist design framework.
+  - My website was created to be user friendly all the design choice is picked in mind to appear aesthetics and user interactive to my users. I followed a minimalist design framework.
 
 - ## User-Focused Approach
 
-  - I did a study on different existing website for life-hack and compared how user friendly they were and which ones attracted more visitors. I noticed that simple text and website that promts action and appeared aestheticly good was a winner. I therefore created my website very minimal.
+  - I did a study on different existing website for life-hack and compared how user friendly they were and which ones attracted more visitors. I noticed that simple text and website that prompts action and appeared aesthetically good was a winner. I therefore created my website very minimal.
 
 - ## User Interface (UI)
 
-* The color theme I used for the website was quiet minimal scandinavian grey/white and black. But to stand out and attract visitors to stay on the pay I added a pink button and a interactive map. The choice of font used was Source Sans Pro and Lora, I knew that the combination together would be user friendly and appear well to my users. Modern and also simple font.
+* The color theme I used for the website was quiet minimal scandinavian grey/white and black. But to stand out and attract visitors to stay on the page, I added a pink button and a interactive map. The choice of font used was Source Sans Pro and Lora, I knew that the combination together would be user friendly and appear well to my users. Modern and also simple font.
 
 - ## Interaction Design
 
-  - Buttons, navigting menu, map and hoover on elements was used in this website. It is userfriendly and intented to increase user experience. The landing page includes an aniumating effect to grab users attention in the first few seconds looking at the website. This is used to enhance usability.
+  - Buttons, navigting menu, map and hoover on elements was used in this website. It is userfriendly and intented to increase user experience. The landing page includes an animating effect to grab users attention in the first few seconds looking at the website. This is used to enhance usability.
 
 - ## Screen Responsiveness
 
-  - I ensured a mobile friendly responsive website by styling my pages in accordance to different screen. Mobile screen is adjusted through setting a media css style that suits the sreen. For Ipad and laptop I also used a seperate styling to suit the screen for my users.
+  - I ensured a mobile friendly responsive website by styling my pages in accordance to different screen. Mobile screen is adjusted through setting a media css style that suits the screen. For Ipad and laptop I also used a seperate styling to suit the screen for my users.
 
 - ## Accessibility
 
@@ -262,7 +262,7 @@ Please refer to [**_here_**](TESTING.md) for more information on testing Product
 
 - ## Future Enhancements
 
-  - I believe my Productivity website is a good start, however I believe there could be a lot of improvment that could include in the future. Any improvment tips I would be happy to hear from my users or other developers.
+  - I believe my Productivity website is a good start, however I believe there could be a lot of improvment that could include in the future. Any improvement tips I would be happy to hear from my users or other developers.
 
   - The integrated map on the contact page has a bug that is extended a little bit towards one side of the page. This bug was due to the iframe and I was unable to fix it, it doesn't belong to me as i found it on google.
 
@@ -280,11 +280,11 @@ Please refer to [**_here_**](TESTING.md) for more information on testing Product
 
 ### Known Bugs
 
-- Iframe: The Google Map used occassionaly won't load as I would like it. Becuase it is an Iframe from Google my setting in CSS will not autmatically apply perfectly as it does not belong to me.
+- Iframe: The Google Map used occassionally won't load as I would like it. Becuase it is an Iframe from Google my setting in CSS will not automatically apply perfectly as it does not belong to me.
 
 ### Validation Bugs
 
-- Validation Issues: This is a previous issue that i had to manually improve. It was caused by the use of Prettier (extension) formating, this showed up as validation issues in "Validator.w3" HTML validator, since "Prettier" added "/> towards the end of all my codes. This was an issue that i resolved and I am aware to not use Prettier extentions again. Now I have no Validation issue for my Website "Productivity".
+- Validation Issues: This is a previous issue that i had to manually improve. It was caused by the use of Prettier (extension) formating, this showed up as validation issues in "Validator.w3" HTML validator, since "Prettier" added "/> towards the end of all my codes. This was an issue that i resolved and I am aware to not use Prettier extensions again. Now I have no Validation issue for my Website "Productivity".
 
 ## Deployment
 
@@ -296,9 +296,9 @@ Please refer to [**_here_**](TESTING.md) for more information on testing Product
 
 - Choose an IDE that you work on which will be connected to your Github for further deployment.
 - We chose the Github workspace: https://github.com/features/codespaces
-- Ensure that your local development enviroment is properly set up with all necessary dependencies and configurations.
+- Ensure that your local development environment is properly set up with all necessary dependencies and configurations.
 - Consider using a version control system like Git to manage changes locally before pushing them to Github.
-- Open termial on your workspace.
+- Open terminal on your workspace.
 - Use 'git clone' command followed by the URL of the repository in order to deploy the project locally: such as, git clone 'https://github.com/MaryanGelle/Productivity.git'
 
 ### Github Deployment
@@ -333,8 +333,6 @@ Requirements:
 
   - Icons used on this site are provided by Font Awesome under the Creative Commons Attribution 4.0 International license.
 
-  - Icons used on this site are provided by Font Awesome under the Creative Commons Attribution 4.0 International license.
-
   - Map was taken from [Google Fonts] (https://www.google.com/maps/d/embed?mid=1KKNEUqhmPslbhvxUIBpI3omLBsc&hl=en&ehbc=2E312F)
 
   - Google Map iframe embed and location visualization provided by Google Maps. All map data © Google.
@@ -343,7 +341,7 @@ Requirements:
 
   - The Ethos image used in a circle was taken from [LSFglobal] (https://lsfglobal.com/ms-teams-end-user-training)
 
-  - Logos was taken from [Cloudfare] (https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css)
+  - Logos were taken from [Cloudfare] (https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css)
 
   - Mock images was taken from [Canvas] (https://www.canva.com/p/templates/EAFC1RnsDzs-course-creator-laptop-iphone-mockup-instagram-post/)
 
@@ -355,6 +353,6 @@ Requirements:
 
 ## Acknowledgment
 
-- This website was made my Maryan Gelle (Developer) as a Project 1 for my IT FullStack Developer programme at Code Institute in 2025.
+- This website was made by Maryan Gelle (Developer) as a Project 1 for my IT FullStack Developer programme at Code Institute in 2025.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
